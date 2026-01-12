@@ -35,8 +35,6 @@
 
 ## 🔥 News
 
-- **[2025.10.11]** Papers accepted by **NeurIPS'25** about MLLM token compression have been updated [here](#published-in-recent-conferencejournal). Congratulations! 🎉🎉🎉
-- **[2025.08.14]** ❗ Added [Recent Papers](#recent-papers-last-6-months), [Papers Published in Recent Conference/Journal](#published-in-recent-conferencejournal), and a [database](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database) for quick-search.
 - **[2025.07.29]** The v1 survey is now published! We've also initialized the repository.
 
 ## 🎯 Motivation
@@ -253,10 +251,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models), [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/), [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering)
-
 ## 🧑‍💻 Contributors
 
 👏 Thanks to these contributors for this excellent work！
@@ -274,5 +268,3 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 ## ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)](https://www.star-history.com/#cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)
-
-[**⬆ Back to top**](#awesome-multimodal-token-compression)
