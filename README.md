@@ -89,11 +89,11 @@ If you find our paper or this resource helpful, please consider cite:
 
 ### Paper Published in Conference/Journal
 
-| **Title (Conference / Journal)** | **Year** | **Links** |
+| **Title (Conference / Journal)** | **Year** | **Paper** |
 | --- | --- | :---: |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2212.11565) · [GitHub](https://github.com/showlab/Tune-A-Video?utm_source=chatgpt.com) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models | 2023 | [Paper](https://arxiv.org/abs/2305.10474) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) DreamPose: Fashion Video Synthesis with Stable Diffusion | 2023 | [Paper](https://arxiv.org/abs/2304.06025) · [GitHub](https://github.com/johannakarras/DreamPose) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2212.11565) · [GitHub](https://github.com/showlab/Tune-A-Video) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models | 2023 | [Paper](https://arxiv.org/abs/2305.10474) · [Website](https://research.nvidia.com/labs/dir/pyoco/) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) DreamPose: Fashion Video Synthesis with Stable Diffusion | 2023 | [Paper](https://arxiv.org/abs/2304.06025) · [GitHub](https://github.com/johannakarras/DreamPose) · [Website](https://grail.cs.washington.edu/projects/dreampose/)|
 | ![ICCV](https://img.shields.io/badge/ICCV-green) Structure and Content-Guided Video Synthesis with Diffusion Models | 2023 | [Paper](https://arxiv.org/abs/2302.03011) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) VideoComposer: Compositional Video Synthesis with Motion Controllability | 2023 | [Paper](https://arxiv.org/abs/2306.02018) |
 | ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text | 2023 | [Paper](https://arxiv.org/abs/2307.16371) |
