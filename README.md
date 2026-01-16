@@ -112,7 +112,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![ECCV](https://img.shields.io/badge/ECCV-olive) Video Editing via Factorized Diffusion Distillation | 2024 | [Paper](https://arxiv.org/abs/2403.09334) |
 | ![ECCV](https://img.shields.io/badge/ECCV-olive) Stable Video Portraits | 2024 | [Paper](https://arxiv.org/abs/2409.18083) |
 | ![COLM](https://img.shields.io/badge/COLM-orange) VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning | 2024 | [Paper](https://arxiv.org/abs/2309.15091) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation | 2024 |  |
+| ![ICLR](https://img.shields.io/badge/ICLR-teal) VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation | 2024 | [Paper](https://openreview.net/forum?id=K9sVJ17zvB) · [Website](https://jinxixiang.github.io/versvideo/) |
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction | 2024 | [Paper](https://arxiv.org/abs/2310.20700) |
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition | 2024 | [Paper](https://arxiv.org/abs/2403.14148) |
 | ![ECCV](https://img.shields.io/badge/ECCV-olive) MEVG : Multi-event Video Generation with Text-to-Video Models | 2024 | [Paper](https://arxiv.org/abs/2312.04086) |
