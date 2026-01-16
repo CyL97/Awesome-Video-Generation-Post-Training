@@ -4,24 +4,23 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![arXiv](https://img.shields.io/badge/arXiv-2507\.20198-red.svg)](https://arxiv.org/abs/2507.20198)
-[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx\.xxxxx-red.svg)]()
 
-[[arXiv]](https://arxiv.org/abs/2507.20198) [[HuggingFace]](https://huggingface.co/papers/2507.20198) [[Database]](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database)
+[[arXiv]]() [[HuggingFace]]() [[Database]]()
 
 </div>
 
-> **When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios** [[arXiv]](https://arxiv.org/pdf/2507.20198)   
-> [Kele Shao](https://cokeshao.github.io/)<sup>\*,1,2</sup>, [Keda Tao](https://kd-tao.github.io/)<sup>\*,1,2</sup>, [Kejia Zhang](https://kejiazhang-robust.github.io/)<sup>3</sup>, [Sicheng Feng](https://fscdc.github.io/)<sup>2,4</sup>, [Mu Cai](https://pages.cs.wisc.edu/~mucai/)<sup>5</sup>, [Yuzhang Shang](https://42shawn.github.io/)<sup>6</sup>, [Haoxuan You](https://hxyou.github.io/)<sup>7</sup>, [Can Qin](https://canqin.tech/)<sup>8</sup>, [Yang Sui](https://eclipsess.github.io/yangsui.github.io/)<sup>9</sup>, [Huan Wang](https://huanwang.tech/)<sup>†,2</sup>
+> **** [[arXiv]]()   
+> [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>, 
 > 
-> <sup>1</sup>Zhejiang University, <sup>2</sup>Westlake University, <sup>3</sup>Xiamen University, <sup>4</sup>National University of Singapore, <sup>5</sup>University of Wisconsin-Madison, <sup>6</sup>University of Central Florida, <sup>7</sup>Columbia University, <sup>8</sup>Salesforce AI Research, <sup>9</sup>Rice University
+> <sup>1</sup>Arizona State University, <sup>2</sup>, <sup>3</sup>, <sup>4</sup>, <sup>5</sup>, <sup>6</sup>, <sup>7</sup>, <sup>8</sup>, <sup>9</sup>
 > 
-> \* Equal Contribution.  † Corresponding Author (wanghuan@westlake.edu.cn).
+> \* Equal Contribution.  † Corresponding Author (chaoyuli@asu.edu).
 
 ---
 
 > [!IMPORTANT]
-> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) or [contact us](#️-contact) to:
+> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request]() to:
 > 
 > - Add a relevant paper not yet included.
 >
@@ -35,38 +34,33 @@
 
 ## 🔥 News
 
-- **[2025.07.29]** The v1 survey is now published! We've also initialized the repository.
+- **[2026.xx.xx]** The v1 survey is now published! We've also initialized the repository.
 
 ## 🎯 Motivation
 <div align="left">
   <img src="images/motivation.png" alt="Awesome Token Compression" width="400"/>
 </div>
 
-> **Motivation:** **Up:** Image, video, and audio data types can scale in their representation dimensions, leading to a corresponding increase in the number of tokens. **Down:** Top-performing MLLMs cannot address real-world demands, as the number of tokens for multimodal information, especially video, vastly exceeds that of text. Therefore, token compression is crucial to address this limitation.
+> **Motivation:** .
 
 ## 📌 Citation
 
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
-@article{shao2025tokens,
-  title={When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios},
-  author={Shao, Kele and Tao, Keda and Zhang, Kejia and Feng, Sicheng and Cai, Mu and Shang, Yuzhang and You, Haoxuan and Qin, Can and Sui, Yang and Wang, Huan},
-  journal={arXiv preprint arXiv:2507.20198},
-  year={2025}
+@article{,
+  title={},
+  author={},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  year={2026}
 }
 ```
 
 ## 📚 Contents
 
-- [Awesome Token Compression](#awesome-multimodal-token-compression)
-    - [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md)
-    - [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md)
-    - [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md)
-    - [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md)
-    - [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
-
-**Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 6 months are shown.**
+- [Awesome Video Generation Post Training](#)
+    - [Arxiv Paper](https://github.com/.md)
+    - [Conference Paper](https://github.com/.md)
 
 ---
 
@@ -249,8 +243,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities, please feel free to reach out:
 
-✉️ Email:  [shaokele@gmail.com](mailto:shaokele@gmail.com) / [KD.TAO.CT@outlook.com](mailto:KD.TAO.CT@outlook.com)
+✉️ Email:  [chaoyuli@asu.edu](mailto:chaoyuli@asu.edu) / [xiaoyigu1809@gmail.com](mailto:xiaoyigu1809@gmail.com)
 
 ## ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)](https://www.star-history.com/#cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=CyL97/Awesome-Video-Generation-Post-Training&type=date&legend=top-left)](https://www.star-history.com/#CyL97/Awesome-Video-Generation-Post-Training&type=date&legend=top-left)
