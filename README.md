@@ -37,9 +37,6 @@
 - **[2026.xx.xx]** The v1 survey is now published! We've also initialized the repository.
 
 ## 🎯 Motivation
-<div align="left">
-  <img src="images/motivation.png" alt="Awesome Token Compression" width="400"/>
-</div>
 
 > **Motivation:** .
 
