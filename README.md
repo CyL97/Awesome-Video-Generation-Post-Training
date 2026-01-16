@@ -83,7 +83,6 @@ If you find our paper or this resource helpful, please consider cite:
 - ![EMNLP Badge](https://img.shields.io/badge/EMNLP-darkorange) `darkorange` for EMNLP papers
 - ![COLM Badge](https://img.shields.io/badge/COLM-orange) `orange` for COLM papers
 - ![IJCAI Badge](https://img.shields.io/badge/IJCAI-royalblue) `royalblue` for IJCAI papers
-- ![COLM Badge](https://img.shields.io/badge/COLM-orange) `orange` for COLM papers
 - ![PMLR Badge](https://img.shields.io/badge/PMLR-gold) `gold` for PMLR papers
 - ![ACM_MM Badge](https://img.shields.io/badge/ACM_MM-darkgray) `darkgray` for ACM_MM papers
 
