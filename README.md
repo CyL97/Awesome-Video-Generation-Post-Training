@@ -61,23 +61,6 @@ If you find our paper or this resource helpful, please consider cite:
 
 ---
 
-### Badge Colors
-- ![arXiv Badge](https://img.shields.io/badge/arXiv-red) `red` for arXiv papers
-- ![ICCV Badge](https://img.shields.io/badge/ICCV-green) `green` for ICCV papers
-- ![CVPR Badge](https://img.shields.io/badge/CVPR-brightgreen) `brightgreen` for CVPR papers
-- ![ECCV Badge](https://img.shields.io/badge/ECCV-olive) `olive` for ECCV papers
-- ![WACV Badge](https://img.shields.io/badge/WACV-dodgerblue) `dodgerblue` for WACV papers
-- ![NeurIPS Badge](https://img.shields.io/badge/NeurIPS-blue) `blue` for NeurIPS papers
-- ![AAAI Badge](https://img.shields.io/badge/AAAI-cyan) `cyan` for AAAI papers
-- ![ICLR Badge](https://img.shields.io/badge/ICLR-teal) `teal` for ICLR papers
-- ![ICML Badge](https://img.shields.io/badge/ICML-indigo) `indigo` for ICML papers
-- ![EMNLP Badge](https://img.shields.io/badge/EMNLP-darkorange) `darkorange` for EMNLP papers
-- ![COLM Badge](https://img.shields.io/badge/COLM-orange) `orange` for COLM papers
-- ![IJCAI Badge](https://img.shields.io/badge/IJCAI-royalblue) `royalblue` for IJCAI papers
-- ![PMLR Badge](https://img.shields.io/badge/PMLR-gold) `gold` for PMLR papers
-- ![ACM_MM Badge](https://img.shields.io/badge/ACM_MM-darkgray) `darkgray` for ACM_MM papers
-
-
 ### Paper Published in Conference/Journal
 
 | **Title (Conference / Journal)** | **Year** | **Paper** |
