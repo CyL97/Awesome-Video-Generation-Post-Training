@@ -213,8 +213,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![IJCAI](https://img.shields.io/badge/IJCAI-royalblue) FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion model | 2025 | [Paper](https://arxiv.org/html/2502.19455v3) |
 | ![PMLR](https://img.shields.io/badge/PMLR-gold) Diffusion Adversarial Post-Training for One-Step Video Generation  | 2025 | [Paper](https://arxiv.org/abs/2501.08316) |
 | ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation | 2025 | [Paper](https://arxiv.org/html/2508.00782v1) · [GitHub](https://github.com/tkpham3105/SpA2V) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Tora2: Motion and Appearance Customized Diffusion
-Transformer for Multi-Entity Video Generation | 2025 | [Paper](https://arxiv.org/abs/2507.05963) |
+| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation | 2025 | [Paper](https://arxiv.org/abs/2507.05963) |
 | ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Improving Identity Preservation in Video Generation with Multi-Branch Models | 2025 |  |
 | ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) M2PE-DIFF: Music-to-Pose Encoder for Dance Video Generation Leveraging Latent Diffusion Framework. | 2025 | [Paper](https://doi.org/10.1145/3746027.3754808) |
 | ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanFlow: Decoupled Motion Control for Panoramic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2512.00832v1) · [GitHub](https://github.com/chengzhag/PanFlow) |
