@@ -331,7 +331,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities, please feel free to reach out:
 
-✉️ Email:  [chaoyuli@asu.edu](mailto:chaoyuli@asu.edu) / [xiaoyigu1809@gmail.com](mailto:xiaoyigu1809@gmail.com)
+✉️ Email:  [chaoyuli@asu.edu](mailto:chaoyuli@asu.edu)
 
 ## ✨ Star History
 
