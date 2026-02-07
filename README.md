@@ -10,12 +10,32 @@
 
 </div>
 
-> **** [[arXiv]]()   
-> [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>, 
-> 
-> <sup>1</sup>Arizona State University, <sup>2</sup>, <sup>3</sup>, <sup>4</sup>, <sup>5</sup>, <sup>6</sup>, <sup>7</sup>, <sup>8</sup>, <sup>9</sup>
-> 
-> \* Equal Contribution.  † Corresponding Author (chaoyuli@asu.edu).
+> **** [[arXiv]]()  
+> [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>,
+> Xiaoyi Gu<sup>2,†</sup>,
+> Yogesh Kulkarni<sup>1</sup>,
+> Eun Woo Im<sup>1</sup>,
+> Mohammadmahdi Honarmand<sup>3</sup>,
+> Zeyu Wang<sup>4</sup>,
+> Juntong Song<sup>5</sup>,
+> Fei Du<sup>6</sup>,
+> Xilin Jiang<sup>7</sup>,
+> Kexin Zheng<sup>8</sup>,
+> Tianzhi Li<sup>9</sup>,
+> Fei Tao<sup>5</sup>,
+> Pooyan Fazli<sup>1</sup>  
+>
+> <sup>1</sup>Arizona State University ·
+> <sup>2</sup>Twitch ·
+> <sup>3</sup>Stanford University ·
+> <sup>4</sup>eBay ·
+> <sup>5</sup>NewsBreak ·
+> <sup>6</sup>Microsoft ·
+> <sup>7</sup>Columbia University ·
+> <sup>8</sup>University of Southern California ·
+> <sup>9</sup>Carnegie Mellon University  
+>
+> <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: Chaoyu Li (chaoyuli@asu.edu).
 
 ---
 
