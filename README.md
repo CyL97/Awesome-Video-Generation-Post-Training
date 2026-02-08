@@ -77,191 +77,51 @@ If you find our paper or this resource helpful, please consider cite:
 
 - [Awesome Video Generation Post Training](#)
     - [Arxiv Paper](https://github.com/.md)
-    - [Conference Paper](https://github.com/.md)
+    - [Conference Paper](conference.md)
 
 ---
 
-### Paper Published in Conference/Journal
+### (WIP) Paper Published in Arxiv
 
 | **Title (Conference / Journal)** | **Year** | **Paper** |
 | --- | --- | :---: |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2212.11565) · [GitHub](https://github.com/showlab/Tune-A-Video) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models | 2023 | [Paper](https://arxiv.org/abs/2305.10474) · [Website](https://research.nvidia.com/labs/dir/pyoco/) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) DreamPose: Fashion Video Synthesis with Stable Diffusion | 2023 | [Paper](https://arxiv.org/abs/2304.06025) · [GitHub](https://github.com/johannakarras/DreamPose) · [Website](https://grail.cs.washington.edu/projects/dreampose/)|
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Structure and Content-Guided Video Synthesis with Diffusion Models | 2023 | [Paper](https://arxiv.org/abs/2302.03011) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) VideoComposer: Compositional Video Synthesis with Motion Controllability | 2023 | [Paper](https://arxiv.org/abs/2306.02018) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text | 2023 | [Paper](https://arxiv.org/abs/2307.16371) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) SimDA: Simple Diffusion Adapter for Efficient Video Generation | 2024 | [Paper](https://arxiv.org/abs/2308.09710) · [GitHub](https://github.com/ChenHsing/SimDA) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) InstructVideo: Instructing Video Diffusion Models with Human Feedback | 2024 | [Paper](https://arxiv.org/abs/2312.12490) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models | 2024 | [Paper](https://arxiv.org/abs/2401.09047) · [GitHub](https://github.com/AILab-CVC/VideoCrafter) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Follow Your Pose: Pose-Guided Text-to-Video Generation Using Pose-Free Videos | 2024 | [Paper](https://arxiv.org/abs/2304.01186) · [GitHub](https://github.com/mayuelala/FollowYourPose) |
-| ![EMNLP](https://img.shields.io/badge/EMNLP-darkorange) VIDEOSCORE: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation | 2024 | [Paper](https://arxiv.org/abs/2406.15252) · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore/) |
-| ![EMNLP](https://img.shields.io/badge/EMNLP-darkorange) VIMI: Grounding Video Generation through Multi-modal Instruction | 2024 | [Paper](https://arxiv.org/abs/2407.06304) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models | 2024 | [Paper](https://arxiv.org/abs/2311.16933) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) MoVideo: Motion-Aware Video Generation with Diffusion Models | 2024 | [Paper](https://arxiv.org/abs/2311.11325) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) DragVideo: Interactive Drag-style Video Editing | 2024 | [Paper](https://arxiv.org/abs/2312.02216) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models | 2024 | [Paper](https://arxiv.org/abs/2407.09012) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) VideoStudio: Generating Consistent-Content and Multi-Scene Videos | 2024 | [Paper](https://arxiv.org/abs/2401.01256) · [GitHub](https://github.com/FuchenUSTC/VideoStudio) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) Animate Your Motion: Turning Still Images into Dynamic Videos | 2024 | [Paper](https://arxiv.org/abs/2403.10179) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) Video Editing via Factorized Diffusion Distillation | 2024 | [Paper](https://arxiv.org/abs/2403.09334) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) Stable Video Portraits | 2024 | [Paper](https://arxiv.org/abs/2409.18083) |
-| ![COLM](https://img.shields.io/badge/COLM-orange) VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning | 2024 | [Paper](https://arxiv.org/abs/2309.15091) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation | 2024 | [Paper](https://openreview.net/forum?id=K9sVJ17zvB) · [Website](https://jinxixiang.github.io/versvideo/) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction | 2024 | [Paper](https://arxiv.org/abs/2310.20700) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition | 2024 | [Paper](https://arxiv.org/abs/2403.14148) |
-| ![ECCV](https://img.shields.io/badge/ECCV-olive) MEVG : Multi-event Video Generation with Text-to-Video Models | 2024 | [Paper](https://arxiv.org/abs/2312.04086) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) MotionBooth: Motion-Aware Customized Text-to-Video Generation | 2024 | [Paper](https://arxiv.org/abs/2406.17758) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Vivid-ZOO: Multi-View Video Generation with Diffusion Model | 2024 | [Paper](https://arxiv.org/abs/2406.08659) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback | 2024 | [Paper](https://arxiv.org/abs/2405.18750) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) SF-V: Single Forward Video Generation Model | 2024 | [Paper](https://arxiv.org/abs/2406.04324) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Exo2Ego-V: Exocentric-to-Egocentric Video Generation | 2024 | [GitHub](https://github.com/showlab/Exo2Ego-V) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control | 2024 | [Paper](https://arxiv.org/abs/2405.12796) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) DragEntity:Trajectory Guided Video Generation using Entity and Positional Relationships | 2024 | [Paper](https://arxiv.org/abs/2410.10751) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning | 2025 | [Paper](https://arxiv.org/abs/2411.05003) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) AKiRa: Augmentation Kit on Rays for Optical Video Generation | 2025 | [Paper](https://arxiv.org/abs/2412.14158) · [GitHub](https://github.com/Triocrossing/AKiRa) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise | 2025 | [Paper](https://arxiv.org/abs/2501.08331) · [GitHub](https://github.com/Eyeline-Research/Go-with-the-Flow) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) TransPixeler: Advancing Text-to-Video Generation with Transparency | 2025 | [Paper](https://arxiv.org/abs/2501.03006) · [GitHub](https://github.com/wileewang/TransPixeler) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) VideoDPO: Omni-Preference Alignment for Video Diffusion Generation | 2025 | [Paper](https://arxiv.org/abs/2412.14167) · [GitHub](https://github.com/CIntellifusion/VideoDPO) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations | 2025 | [Paper](https://arxiv.org/abs/2411.10818) · [GitHub](https://github.com/hmrishavbandy/FlipSketch) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) MotiF: Making Text Count in Image Animation with Motion Focal Loss | 2025 | [Paper](https://arxiv.org/abs/2412.16153) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) GS-DiT: Advancing Video Generation with Dynamic 3D Gaussian Fields through Efficient Dense 3D Point Tracking | 2025 | [Paper](https://arxiv.org/abs/2501.02690) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2503.08417) · [GitHub](https://github.com/kwanyun/AnyMoLe) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation | 2025 | [Paper](https://arxiv.org/abs/2503.11423) · [GitHub](https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2505.07652) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2502.19894) · [GitHub](https://github.com/MingtaoGuo/Relightable-Portrait-Animation) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset | 2025 | [Paper](https://arxiv.org/abs/2503.14485) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) From Slow Bidirectional to Fast Autoregressive Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2412.07772) · [GitHub](https://github.com/tianweiy/CausVid) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) InterDyn: Controllable Interactive Dynamics with Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2412.11785) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation | 2025 | [Paper](https://arxiv.org/abs/2503.18860) · [GitHub](https://github.com/kkakkkka/HunyuanPortrait) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Mind the Time: Temporally-Controlled Multi-Event Video Generation | 2025 | [Paper](https://arxiv.org/abs/2412.05263) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) One-Minute Video Generation with Test-Time Training | 2025 | [Paper](https://arxiv.org/abs/2504.05298) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think | 2025 | [Paper](https://arxiv.org/abs/2503.00948) · [GitHub](https://github.com/Chuge0335/EDG) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM | 2025 | [Paper](https://arxiv.org/abs/2412.15156) · [GitHub](https://github.com/jiyt17/Prompt-A-Video) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization | 2025 | [Paper](https://arxiv.org/abs/2412.15689) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization | 2025 | [Paper](https://arxiv.org/abs/2503.12689) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) V.I.P.: Iterative Online Preference Distillation for Efficient Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2508.03254) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) LayerAnimate: Layer-level Control for Animation | 2025 | [Paper](https://arxiv.org/abs/2501.08295) · [GitHub](https://github.com/IamCreateAI/LayerAnimate) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis | 2025 | [Paper](https://arxiv.org/abs/2507.18569) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Decouple and Track: Benchmarking and Improving Video Diffusion Transformers For Motion Transfer | 2025 | [Paper](https://arxiv.org/abs/2503.17350) · [GitHub](https://github.com/Shi-qingyu/DeT) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2507.05678) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Long Context Tuning for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2503.10589) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Dual-Expert Consistency Model for Efficient and High-Quality Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.03123) · [GitHub](https://github.com/Vchitect/DCM) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2503.19369) · [GitHub](https://github.com/PrototypeNx/EfficientMT) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) MagicMirror: ID-Preserved Video Generation in Video Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2501.03931) · [GitHub](https://github.com/dvlab-research/MagicMirror) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Free-Form Motion Control: Controlling the 6D Poses of Camera and Objects in Video Generation | 2025 | [Paper](https://arxiv.org/abs/2501.01425) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction | 2025 | [Paper](https://arxiv.org/abs/2406.06465) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Reangle-A-Video: 4D Video Generation as Video-to-Video Translation | 2025 | [Paper](https://arxiv.org/abs/2503.09151) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization | 2025 | [Paper](https://arxiv.org/abs/2505.02192) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control | 2025 | [Paper](https://arxiv.org/abs/2502.10059) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation | 2025 | [Paper](https://arxiv.org/abs/2411.17048) · [GitHub](https://github.com/EchoPluto/PersonalVideo?tab=readme-ov-file) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Learning Few-Step Diffusion Models by Trajectory Distribution Matching | 2025 | [Paper](https://arxiv.org/abs/2503.06674) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation | 2025 | [Paper](https://arxiv.org/abs/2503.14350) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Versatile Transition Generation with Image-to-Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2508.01698) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent | 2025 | [Paper](https://arxiv.org/abs/2502.03207) · [GitHub](https://github.com/leoisufa/MotionAgent) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution | 2025 | [Paper](https://arxiv.org/abs/2501.02976) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment | 2025 | [Paper](https://arxiv.org/abs/2502.11079) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) VideoAuteur: Towards Long Narrative Video Generation | 2025 | [Paper](https://arxiv.org/abs/2501.06173) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics | 2025 | [Paper](https://arxiv.org/abs/2408.04631) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) I2VControl: Disentangled and Unified Video Motion Synthesis Control | 2025 | [Paper](https://arxiv.org/abs/2411.17765) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Mobile Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2412.07583) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.04010) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) Precise Action-to-Video Generation Through Visual Action Prompts | 2025 | [Paper](https://arxiv.org/abs/2508.13104) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance | 2025 | [Paper](https://arxiv.org/abs/2503.16421) |
-| ![ICCV](https://img.shields.io/badge/ICCV-green) TACO: Taming Diffusion for in-the-wild Video Amodal Completion | 2025 | [Paper](https://arxiv.org/abs/2503.12049) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer | 2025 | [Paper](https://arxiv.org/abs/2412.09389) · [GitHub](https://github.com/Delong-liu-bupt/UFO) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training | 2025 | [Paper](https://arxiv.org/abs/2412.15646) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Enhancing Identity-Deformation Disentanglement in StyleGAN for One-Shot Face Video Re-Enactment | 2025 |  |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Occlusion-Insensitive Talking Head Video Generation via Facelet Compensation | 2025 |  |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanoDiT: Panoramic Videos Generation with Diffusion Transformer | 2025 |  |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities | 2025 | [Paper](https://arxiv.org/abs/2408.13239) · [GitHub](https://github.com/WuTao-CS/CustomCrafter) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) TrackGo: A Flexible and Efficient Method for Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2408.11475) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation | 2025 | [Paper](https://arxiv.org/abs/2403.06845) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) CAGE:Unsupervised Visual Composition and Animation for Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2403.14368) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM | 2025 | [Paper](https://arxiv.org/abs/2504.12048v1) |
-| ![EMNLP](https://img.shields.io/badge/EMNLP-darkorange) VC4VG: Optimizing Video Captions for Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2510.24134) · [GitHub](https://github.com/qyr0403/VC4VG) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) SePPO: Semi-Policy Preference Optimization for Diffusion Alignment | 2025 | [Paper](https://arxiv.org/html/2410.05255v1) · [GitHub](https://github.com/DwanZhang-AI/SePPO) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) VADER: Video Diffusion Alignment via Reward Gradients | 2025 | [Paper](https://arxiv.org/abs/2407.08737) · [GitHub](https://github.com/vader-vid/vader) |
-| ![ICML](https://img.shields.io/badge/ICML-indigo) FrameBridge: Improving Image-to-Video Generation with Bridge Models | 2025 | [Paper](https://arxiv.org/abs/2410.15371) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2404.09967) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control | 2025 | [Paper](https://arxiv.org/abs/2407.12781) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) Trajectory attention for fine-grained video motion control | 2025 | [Paper](https://arxiv.org/abs/2411.19324) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) Boosting Camera Motion Control for Video Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2410.10802) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) CameraCtrl: Enabling Camera Control for Video Diffusion Models | 2025 | [Paper](https://arxiv.org/html/2404.02101v2) |
-| ![ICLR](https://img.shields.io/badge/ICLR-teal) Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2505.11245) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 |  |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Audio-Sync Video Generation with Multi-Stream Temporal Control | 2025 | [Paper](https://arxiv.org/abs/2506.08003v1) · [GitHub](https://github.com/suimuc/MTV_Framework) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Improving Video Generation with Human Feedback | 2025 | [Paper](https://arxiv.org/abs/2501.13918) · [GitHub](https://github.com/KlingTeam/VideoAlign) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2504.12626) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) EchoShot: Multi-Shot Portrait Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.15838) · [GitHub](https://github.com/JoHnneyWang/EchoShot) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Temporal In‑Context Fine‑Tuning for Versatile Control of Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.00996) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Imagine360: Immersive 360 Video Generation from Perspective Anchor | 2025 | [Paper](https://arxiv.org/abs/2412.03552) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement | 2025 | [Paper](https://arxiv.org/abs/2506.07848v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception | 2025 | [Paper](https://arxiv.org/abs/2508.15720v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.19852v1) · [GitHub](https://github.com/mit-han-lab/radial-attention) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.03517v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) MoCha: Towards Movie-Grade Talking Character Generation | 2025 | [Paper](https://arxiv.org/abs/2503.23307) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.09350v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Frame In-N-Out: Unbounded Controllable Image-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2505.21491v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image | 2025 | [Paper](https://arxiv.org/abs/2509.04450v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance | 2025 | [Paper](https://arxiv.org/abs/2512.08765) · [GitHub](https://github.com/ali-vilab/Wan-Move) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation | 2025 | [Paper](https://arxiv.org/abs/2508.10858v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) GeoVideo: Introducing Geometric Regularization into Video Generation Model | 2025 | [Paper](https://arxiv.org/abs/2512.03453v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation | 2025 | [Paper](https://arxiv.org/abs/2509.16500v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2503.08153) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models | 2025 | [Paper](https://arxiv.org/abs/2505.23656v1) |
-| ![WACV](https://img.shields.io/badge/WACV-dodgerblue) TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2312.00651) |
-| ![WACV](https://img.shields.io/badge/WACV-dodgerblue) MagicStick: Controllable Video Editing via Control Handle Transformations | 2025 | [Paper](https://arxiv.org/abs/2312.03047) |
-| ![WACV](https://img.shields.io/badge/WACV-dodgerblue) Fine-Grained Controllable Video Generation via Object Appearance and Context | 2025 | [Paper](https://arxiv.org/abs/2312.02919) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) AICL: Action In-Context Learning for Video Diffusion Model | 2025 |  |
-| ![IJCAI](https://img.shields.io/badge/IJCAI-royalblue) FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion model | 2025 | [Paper](https://arxiv.org/html/2502.19455v3) |
-| ![PMLR](https://img.shields.io/badge/PMLR-gold) Diffusion Adversarial Post-Training for One-Step Video Generation  | 2025 | [Paper](https://arxiv.org/abs/2501.08316) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation | 2025 | [Paper](https://arxiv.org/html/2508.00782v1) · [GitHub](https://github.com/tkpham3105/SpA2V) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation | 2025 | [Paper](https://arxiv.org/abs/2507.05963) |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Improving Identity Preservation in Video Generation with Multi-Branch Models | 2025 |  |
-| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) M2PE-DIFF: Music-to-Pose Encoder for Dance Video Generation Leveraging Latent Diffusion Framework. | 2025 | [Paper](https://doi.org/10.1145/3746027.3754808) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanFlow: Decoupled Motion Control for Panoramic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2512.00832v1) · [GitHub](https://github.com/chengzhag/PanFlow) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) CamC2V: Context-aware Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2504.06022v2) · [GitHub](https://github.com/LDenninger/CamC2V) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MultiShotMaster: A Controllable Multi-Shot Video Generation Framework | 2025 | [Paper](https://arxiv.org/abs/2512.03041v1) · [GitHub](https://qinghew.github.io/MultiShotMaster/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization | 2025 | [Paper](https://arxiv.org/abs/2512.02933v2) · [GitHub](https://cz-5f.github.io/LoVoRA.github.io/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Taming Camera-Controlled Video Generation with Verifiable Geometry Reward | 2025 | [Paper](https://arxiv.org/abs/2512.02870v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now | 2025 | [Paper](https://arxiv.org/abs/2512.02016v1) · [GitHub](https://gravity-eval.github.io) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) IC-World: In-Context Generation for Shared World Modeling | 2025 | [Paper](https://arxiv.org/abs/2512.02793v1) · [GitHub](https://github.com/wufan-cse/IC-World) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Make Objects Move Slower Than in Reality | 2025 | [Paper](https://arxiv.org/abs/2512.02016v1) · [GitHub](https://gravity-eval.github.io) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards | 2025 | [Paper](https://arxiv.org/abs/2512.00425v1) · [GitHub](https://cvlab-stonybrook.github.io/NewtonRewards/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) InstanceV: Instance-Level Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.23146v1) · [GitHub](https://aliothchen.github.io/projects/InstanceV/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) McSc: Motion-Corrective Preference Alignment for Video Generation with Self-Critic Hierarchical Reasoning | 2025 | [Paper](https://arxiv.org/abs/2511.22974v1) · [GitHub](https://github.com/QiushiYang/McSc) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer | 2025 | [Paper](https://arxiv.org/abs/2511.22940v2) · [GitHub](https://ssj9596.github.io/one-to-all-animation-project/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training | 2025 | [Paper](https://arxiv.org/abs/2511.21592v1) · [GitHub](https://xavihart.github.io/mogan/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Video Generation Models Are Good Latent Reward Models | 2025 | [Paper](https://arxiv.org/abs/2511.21541v1) · [GitHub](https://kululumi.github.io/PRFL/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization | 2025 | [Paper](https://arxiv.org/abs/2511.20647v1) · [GitHub](https://diverse-video.github.io) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models | 2025 | [Paper](https://arxiv.org/abs/2511.20629v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Growing with the Generator: Self-paced GRPO for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.19356v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation | 2025 | [Paper](https://arxiv.org/abs/2511.18919v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses | 2025 | [Paper](https://arxiv.org/abs/2511.18173v1) · [Website](https://cvg-bonn.github.io/EgoControl/) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.17844v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Show Me: Unifying Instructional Image and Video Generation with Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2511.17839v1) · [GitHub](https://yujiangpu20.github.io/showme/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO | 2025 | [Paper](https://arxiv.org/abs/2511.16669v2) · [GitHub](https://video-as-answer.github.io) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) First Frame Is the Place to Go for Video Content Customization | 2025 | [Paper](https://arxiv.org/abs/2511.15700v1) · [Website](http://firstframego.github.io) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.14993v2) · [GitHub](https://github.com/kandinskylab/kandinsky-5) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models | 2025 | [Paper](https://arxiv.org/abs/2511.13704v1) · [GitHub](https://haroldchen19.github.io/TiViBench-Page/) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2511.12099v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) ProAV-DiT: A Projected Latent Diffusion Transformer for Efficient Synchronized Audio-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.12072v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation | 2025 | [Paper](https://arxiv.org/abs/2511.11002v1) · [Website](https://zane-zyqiu.github.io/EmoVid) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) LiteAttention: A Temporal Sparse Attention for Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2511.11062v1) · [GitHub](https://github.com/moonmath-ai/LiteAttention) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Neodragon: Mobile Video Generation using Diffusion Transformer | 2025 | [Paper](https://arxiv.org/abs/2511.06055v1) · [GitHub](https://qualcomm-ai-research.github.io/neodragon) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Video Text Preservation with Synthetic Text-Rich Videos | 2025 | [Paper](https://arxiv.org/abs/2511.05573v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.04317v1) · [GitHub](https://rise-t2v.github.io) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions | 2025 | [Paper](https://arxiv.org/abs/2511.03334v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection | 2025 | [Paper](https://arxiv.org/abs/2511.03997v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) VC4VG: Optimizing Video Captions for Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2510.24134) · [GitHub](https://github.com/qyr0403/VC4VG) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) ID-Crafter: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.00511v3) · [GitHub](https://angericky.github.io/ID-Crafter/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V | 2025 | [Paper](https://arxiv.org/abs/2510.27364v1) · [GitHub](https://sedatbvb5.github.io/AyDNA/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V | 2025 | [Paper](https://arxiv.org/abs/2510.27364v1) · [GitHub](https://sedatbvb5.github.io/AyDNA/) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Epipolar Geometry Improves Video Generation Models | 2025 | [Paper](https://arxiv.org/abs/2510.21615v1) · [GitHub](https://epipolar-dpo.github.io) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2510.19022v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) TGT: Text-Grounded Trajectories for Locally Controlled Video Generation | 2025 | [Paper](https://arxiv.org/abs/2510.15104v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) In-Context Learning with Unpaired Clips for Instruction-based Video Editing | 2025 | [Paper](https://arxiv.org/abs/2510.14648v1) · [GitHub](https://github.com/leoisufa/ICVE) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning | 2025 | [Paper](https://arxiv.org/abs/2510.14256v2) · [GitHub](https://ali-videoai.github.io/identity_page) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization | 2025 | [Paper](https://arxiv.org/abs/2510.14255v3) · [GitHub](https://ipro-alimama.github.io) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures | 2025 | [Paper](https://arxiv.org/abs/2510.14179v1) · [GitHub](https://eyeline-labs.github.io/Virtually-Being) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning | 2025 | [Paper](https://arxiv.org/abs/2510.13809v1) · [GitHub](https://sihuiji.github.io/PhysMaster-Page) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars | 2025 | [Paper](https://arxiv.org/abs/2510.12785v1) · [GitHub](https://felixtaubner.github.io/mvp4d) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Stable Video Infinity: Infinite-Length Video Generation with Error Recycling | 2025 | [Paper](https://arxiv.org/abs/2510.09212v1) · [GitHub](https://stable-video-infinity.github.io/homepage) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency | 2025 | [Paper](https://arxiv.org/abs/2510.08431v1) · [GitHub](https://research.nvidia.com/labs/dir/rcm) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Real-Time Motion-Controllable Autoregressive Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2510.08131v2) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) PickStyle: Video-to-Video Style Transfer with Context-Style Adapters | 2025 | [Paper](https://arxiv.org/abs/2510.07546v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MATRIX: Mask Track Alignment for Interaction-aware Video Generation | 2025 | [Paper](https://arxiv.org/abs/2510.07310v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report | 2025 | [Paper](https://arxiv.org/abs/2510.07092v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Mitigating Surgical Data Imbalance with Dual-Prediction Video Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2510.07345v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report | 2025 | [Paper](https://arxiv.org/abs/2510.07092v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Character Mixing for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2510.05093v1) · [GitHub](https://github.com/TingtingLiao/mimix) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Arbitrary Generative Video Interpolation | 2025 | [Paper](https://arxiv.org/abs/2510.00578v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2509.25187v2) · [GitHub](https://pku-yuangroup.github.io/FlashI2V) |
@@ -270,18 +130,6 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2509.24997v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer | 2025 | [Paper](https://arxiv.org/abs/2509.24899v3) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Reinforcement Learning with Inverse Rewards for World Model Post-training | 2025 | [Paper](https://arxiv.org/abs/2509.23958v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models | 2025 | [Paper](https://arxiv.org/abs/2509.21760v1) · [GitHub](https://github.com/CUC-MIPG/UniVid) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Echo-Path: Pathology-Conditioned Echo Video Generation | 2025 | [Paper](https://arxiv.org/abs/2509.17190v1) · [GitHub](https://github.com/Marshall-mk/EchoPathv1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) VidCLearn: A Continual Learning Approach for Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2509.16956v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Lynx: Towards High-Fidelity Personalized Video Generation | 2025 | [Paper](https://arxiv.org/abs/2509.15496v1) · [GitHub](https://byteaigc.github.io/Lynx) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data | 2025 | [Paper](https://arxiv.org/abs/2509.15479v1) · [GitHub](https://github.com/ifnspaml/OpenViGA) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) PanoLora: Bridging Perspective and Panoramic Video Generation with LoRA Adaptation | 2025 | [Paper](https://arxiv.org/abs/2509.11092v1) · [GitHub](https://anonymous-pano-lora.github.io) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis | 2025 | [Paper](https://arxiv.org/abs/2509.09595v2) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders | 2025 | [Paper](https://arxiv.org/abs/2509.09547v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) RewardDance: Reward Scaling in Visual Generation | 2025 | [Paper](https://arxiv.org/abs/2509.08826v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning | 2025 | [Paper](https://arxiv.org/abs/2509.08519v1) · [GitHub](https://github.com/Phantom-video/HuMo) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training | 2025 | [Paper](https://arxiv.org/abs/2509.06723v2) · [GitHub](https://github.com/Richard-Zhang-AI/Zo3T-main) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) UniVerse-1: Unified Audio-Video Generation via Stitching of Experts | 2025 | [Paper](https://arxiv.org/abs/2509.06155v1) · [GitHub](https://github.com/Dorniwang/UniVerse-1-code) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2509.06040v5) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview | 2025 | [Paper](https://arxiv.org/abs/2509.04450v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) DevilSight: Augmenting Monocular Human Avatar Reconstruction through a Virtual Perspective | 2025 | [Paper](https://arxiv.org/abs/2509.00403v1) |
@@ -298,36 +146,15 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) 4DNeX: Feed-Forward 4D Generative Modeling Made Easy | 2025 | [Paper](https://arxiv.org/abs/2508.13154v1) · [GitHub](https://github.com/3DTopia/4DNeX) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Physical Autoregressive Model for Robotic Manipulation without Action Pretraining | 2025 | [Paper](https://arxiv.org/abs/2508.09822v4) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts | 2025 | [Paper](https://arxiv.org/abs/2508.09476v2) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Animate-X++: Universal Character Image Animation with Dynamic Backgrounds | 2025 | [Paper](https://arxiv.org/abs/2508.09454v1) · [GitHub](https://github.com/antgroup/animate-x) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space | 2025 | [Paper](https://arxiv.org/abs/2508.08588v1) · [GitHub](https://jingyunliang.github.io/RealisMotion) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.03621v1) · [Website](https://recamdriving.github.io/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) In-Context Sync-LoRA for Portrait Video Editing | 2025 | [Paper](https://arxiv.org/abs/2512.03013v1) · [Website](https://sagipolaczek.github.io/Sync-LoRA/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Progressive Image Restoration via Text-Conditioned Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.02273v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Generative Video Motion Editing with 3D Point Tracks | 2025 | [Paper](https://arxiv.org/abs/2512.02015v1) · [Website](https://edit-by-track.github.io/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.01960v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models | 2025 | [Paper](https://arxiv.org/abs/2512.01686v1) · [Website](https://yj7082126.github.io/dreamingcomics/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Low-Bitrate Video Compression through Semantic-Conditioned Diffusion | 2025 | [Paper](https://arxiv.org/abs/2512.00408v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement | 2025 | [Paper](https://arxiv.org/abs/2511.23475v1) · [Website](https://hkust-c4g.github.io/AnyTalker-homepage/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.22973v1) · [Website](https://ziplab.co/BlockVid) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.22098v1) · [GitHub](https://github.com/showlab/WorldWander) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2511.21129v1) · [Website](https://tele-ai.github.io/CtrlVDiff/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MotionV2V: Editing Motion in a Video | 2025 | [Paper](https://arxiv.org/abs/2511.20640v1) · [Website](https://ryanndagreat.github.io/MotionV2V/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis | 2025 | [Paper](https://arxiv.org/abs/2511.20186v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation | 2025 | [Paper](https://arxiv.org/abs/2511.19320v1) · [Website](https://mcg-nju.github.io/steadydancer-web/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Beyond Reward Margin: Rethinking and Resolving Likelihood Displacement in Diffusion Models via Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.19049v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) View-Consistent Diffusion Representations for 3D-Consistent Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.18991v1) · [Website](https://danier97.github.io/ViCoDR/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Eevee: Towards Close-up High-resolution Video-based Virtual Try-on | 2025 | [Paper](https://arxiv.org/abs/2511.18957v1) · [GitHub](https://github.com/AMAP-ML/Eevee) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | 2025 | [Paper](https://arxiv.org/abs/2511.18786v1) · [Website](https://jychen9811.github.io/STCDiT_page/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Point-to-Point: Sparse Motion Guidance for Controllable Video Editing | 2025 | [Paper](https://arxiv.org/abs/2511.18277v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses | 2025 | [Paper](https://arxiv.org/abs/2511.18173v1) · [Website](https://cvg-bonn.github.io/EgoControl/) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.17844v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) First Frame Is the Place to Go for Video Content Customization | 2025 | [Paper](https://arxiv.org/abs/2511.15700v1) · [Website](http://firstframego.github.io) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.14993v2) · [GitHub](https://github.com/kandinskylab/kandinsky-5) · [HuggingFace](https://huggingface.co/kandinskylab) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2511.12099v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) ProAV-DiT: A Projected Latent Diffusion Transformer for Efficient Synchronized Audio-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.12072v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation | 2025 | [Paper](https://arxiv.org/abs/2511.11002v1) · [Website](https://zane-zyqiu.github.io/EmoVid) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions | 2025 | [Paper](https://arxiv.org/abs/2511.03334v1) |
-| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Video Text Preservation with Synthetic Text-Rich Videos | 2025 | [Paper](https://arxiv.org/abs/2511.05573v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception | 2025 | [Paper](https://arxiv.org/abs/2508.15720v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models | 2025 | [Paper](https://arxiv.org/abs/2511.20629v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Growing with the Generator: Self-paced GRPO for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.19356v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation | 2025 | [Paper](https://arxiv.org/abs/2511.18919v1) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models | 2025 | [Paper](https://arxiv.org/abs/2511.13704v1) · [GitHub](https://haroldchen19.github.io/TiViBench-Page/) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) LiteAttention: A Temporal Sparse Attention for Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2511.11062v1) · [GitHub](https://github.com/moonmath-ai/LiteAttention) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) Neodragon: Mobile Video Generation using Diffusion Transformer | 2025 | [Paper](https://arxiv.org/abs/2511.06055v1) · [GitHub](https://qualcomm-ai-research.github.io/neodragon) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.04317v1) · [GitHub](https://rise-t2v.github.io) |
+| ![arXiv Badge](https://img.shields.io/badge/arXiv-red) PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection | 2025 | [Paper](https://arxiv.org/abs/2511.03997v1) |
 | ![arXiv Badge](https://img.shields.io/badge/arXiv-red) The Quest for Generalizable Motion Generation: Data, Model, and Evaluation | 2025 | [Paper](https://arxiv.org/abs/2510.26794v1) |
 
 
