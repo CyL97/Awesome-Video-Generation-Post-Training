@@ -149,8 +149,19 @@ _WIP: will be populated from `arxiv.md` once the arXiv list is complete._
 
 | **Dataset/Benchmark** | **Year** | **Links** |
 | --- | --- | :---: |
-| ![]() PNData | 2025 | [Paper](https://arxiv.org/abs/2506.16119) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) PNData | 2025 | [Paper](https://arxiv.org/abs/2506.16119) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) PairFS-4K | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/yisuanwang/DanceTog) · [Website](https://dancetog.github.io) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) DAVID-X | 2025 | [Paper](https://arxiv.org/abs/2506.14827) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Dprim | 2025 | [Paper](https://arxiv.org/abs/2508.20840) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MMVideo | 2025 | [Paper](https://arxiv.org/abs/2507.01938) · [GitHub](https://github.com/Tele-AI/CtrlVDiff) · [Website](https://tele-ai.github.io/CtrlVDiff) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) CI-VID | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/ymju-BAAI/CI-VID) · [Dataset](https://huggingface.co/datasets/BAAI/CI-VID) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) TIP-I2V | 2025 | [Paper](https://arxiv.org/abs/2411.04709) · [GitHub](https://github.com/WangWenhao0716/TIP-I2V) · [Website](https://tip-i2v.github.io/) · [Dataset](https://huggingface.co/datasets/WenhaoWang/TIP-I2V) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) SynFMC | 2025 | [Paper](https://arxiv.org/abs/2501.01425) · [GitHub](https://github.com/FudanCVL/SynFMC) · [Website](https://henghuiding.com/SynFMC/) · [Dataset](https://huggingface.co/datasets/XinchengShuai/SynFMC) |
+| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) WISA-80K | 2025 | [Paper](https://arxiv.org/abs/2503.08153) · [GitHub](https://github.com/360CVGroup/WISA) · [Website](https://360cvgroup.github.io/WISA/) · [Dataset](https://huggingface.co/datasets/qihoo360/WISA-80K)|
 
+| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) VideoUFO | 2025 | [Paper](https://arxiv.org/abs/2508.20840) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) CookGen | 2025 | [Paper](https://arxiv.org/abs/2507.01938) · [GitHub](https://github.com/Tele-AI/CtrlVDiff) · [Website](https://tele-ai.github.io/CtrlVDiff) |
+| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) TalkCuts | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/ymju-BAAI/CI-VID) · [Dataset](https://huggingface.co/datasets/BAAI/CI-VID) |
 
 ---
 
