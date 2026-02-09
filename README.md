@@ -86,24 +86,7 @@ If you find our paper or this resource helpful, please consider cite:
 | **Title (Conference / Journal)** | **Year** | **Paper** |
 | --- | --- | :---: |
 | ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanFlow: Decoupled Motion Control for Panoramic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2512.00832v1) · [GitHub](https://github.com/chengzhag/PanFlow) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) CAGE:Unsupervised Visual Composition and Animation for Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2403.14368) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities | 2025 | [Paper](https://arxiv.org/abs/2408.13239) · [GitHub](https://github.com/WuTao-CS/CustomCrafter) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training | 2025 | [Paper](https://arxiv.org/abs/2412.15646) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation | 2025 | [Paper](https://arxiv.org/abs/2412.04563) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) FROG: A Robust and Efficient Probabilistic Framework for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2407.13509) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Free-Form Motion Control: Controlling the 6D Poses of Camera and Objects in Video Generation | 2025 | [Paper](https://arxiv.org/abs/2501.01425) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) FramePainter: Endowing Video Diffusion Model with Object-Guided Trajectory Control | 2025 | [Paper](https://arxiv.org/abs/2410.15069) · [GitHub](https://github.com/yzhangcs/FramePainter) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) I2V-Adapter: Learning Image-to-Video Adaptation from a Single Video Pair | 2025 | [Paper](https://arxiv.org/abs/2312.16693) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) I2VControl: Disentangled and Unified Video Motion Synthesis Control | 2025 | [Paper](https://arxiv.org/abs/2411.17765) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Implicit Motion Handling for Video Generation: A Self-Training Strategy | 2025 | [Paper](https://arxiv.org/abs/2406.09519) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Panoramic Video Generation: A Novel Dataset and Improved Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2409.02839) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Pixel-level Motion Control for Diffusion-based Video Generation | 2025 | [Paper](https://arxiv.org/abs/2408.00981) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) PiSSA: Parameter-Efficient Fine-Tuning with Singular Values | 2025 | [Paper](https://arxiv.org/abs/2402.09353) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Quantum Reinforcement Learning for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2408.03883) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) RAVE: Retrieval-Augmented Video Generation | 2025 | [Paper](https://arxiv.org/abs/2409.05002) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) StyleCrafter: Style-Driven Diverse and Disentangled Video Generation | 2025 | [Paper](https://arxiv.org/abs/2409.06826) |
-| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Text2video-Zero: Text-to-video Generation with Zero-shot Multimodal Control | 2025 | [Paper](https://arxiv.org/abs/2409.14490) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 |  |
+| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 | [Paper](https://neurips.cc/virtual/2025/loc/mexico-city/poster/118857) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Audio-Sync Video Generation with Multi-Stream Temporal Control | 2025 | [Paper](https://arxiv.org/abs/2506.08003v1) · [GitHub](https://github.com/suimuc/MTV_Framework) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.09350v2) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.03517v2) |
@@ -124,25 +107,35 @@ If you find our paper or this resource helpful, please consider cite:
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance | 2025 | [Paper](https://arxiv.org/abs/2512.08765) · [GitHub](https://github.com/ali-vilab/Wan-Move) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2503.08153) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception | 2025 | [Paper](https://arxiv.org/abs/2508.15720v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) ALIGN-Vid: Aligning Video Diffusion Models with Human Feedback at Scale | 2025 | [Paper](https://arxiv.org/abs/2506.11401) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) VideoDPO: Improving Video Generation with Better Alignment | 2025 | [Paper](https://arxiv.org/abs/2406.06448) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Seedance 1.0: Exploring the Boundaries of Video Generation Models | 2025 | [Paper](https://arxiv.org/abs/2506.09113v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.07280v2) · [GitHub](https://github.com/PabloAcuaviva/Gen2Gen) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2506.08009v2) · [GitHub](https://github.com/guandeh17/Self-Forcing) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models | 2025 | [Paper](https://arxiv.org/abs/2506.09042v3) · [GitHub](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.09229v2) · [GitHub](https://github.com/deepshwang/crepa) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Consistent Video Editing as Flow-Driven Image-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.07713v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning | 2025 | [Paper](https://arxiv.org/abs/2506.05207v2) · [Website](https://follow-your-motion.github.io/) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) PlayerOne: Egocentric World Simulator | 2025 | [Paper](https://arxiv.org/abs/2506.09995v1) · [GitHub](https://github.com/yuanpengtu/PlayerOne) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning | 2025 | [Paper](https://arxiv.org/abs/2506.10082v5) · [GitHub](https://github.com/cjeen/LoRAEdit) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2506.10568v2) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning | 2025 | [Paper](https://arxiv.org/abs/2506.10639v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation | 2025 | [Paper](https://arxiv.org/abs/2506.11144v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Enhancing Motion Dynamics of Image-to-Video Models via Adaptive Low-Pass Guidance | 2025 | [Paper](https://arxiv.org/abs/2506.08456v1) · [GitHub](https://github.com/choi403/ALG) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation | 2025 | [Paper](https://arxiv.org/abs/2506.08797v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer | 2025 | [Paper](https://arxiv.org/abs/2506.12847v1) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Causally Steered Diffusion for Automated Video Counterfactual Generation | 2025 | [Paper](https://arxiv.org/abs/2506.14404v2) · [GitHub](https://github.com/nysp78/counterfactual-video-generation) |
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) DAVID-XR1: Detecting AI-Generated Videos with Explainable Reasoning | 2025 | [Paper](https://arxiv.org/abs/2506.14827v1) |
+| ![EMNLP](https://img.shields.io/badge/EMNLP-darkorange) VC4VG: Optimizing Video Captions for Text-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2510.24134) · [GitHub](https://github.com/qyr0403/VC4VG) |
+| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) AICL: Action In-Context Learning for Video Diffusion Model | 2025 | [Paper](https://dl.acm.org/doi/10.1145/3746027.3754864) |
+| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Improving Identity Preservation in Video Generation with Multi-Branch Models | 2025 | [Paper](https://dl.acm.org/doi/10.1145/3746027.3761990) |
+| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) M2PE-DIFF: Music-to-Pose Encoder for Dance Video Generation Leveraging Latent Diffusion Framework. | 2025 | [Paper](https://doi.org/10.1145/3746027.3754808) |
+| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation | 2025 | [Paper](https://arxiv.org/html/2508.00782v1) · [GitHub](https://github.com/tkpham3105/SpA2V) |
+| ![ACM MM](https://img.shields.io/badge/ACM_MM-darkgray) Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation | 2025 | [Paper](https://arxiv.org/abs/2507.05963) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction | 2025 | [Paper](https://arxiv.org/abs/2406.06465) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis | 2025 | [Paper](https://arxiv.org/abs/2507.18569) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Decouple and Track: Benchmarking and Improving Video Diffusion Transformers For Motion Transfer | 2025 | [Paper](https://arxiv.org/abs/2503.17350) · [GitHub](https://github.com/Shi-qingyu/DeT) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.04010) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization | 2025 | [Paper](https://arxiv.org/abs/2412.15689) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Dual-Expert Consistency Model for Efficient and High-Quality Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.03123) · [GitHub](https://github.com/Vchitect/DCM) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization | 2025 | [Paper](https://arxiv.org/abs/2505.02192) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2503.19369) · [GitHub](https://github.com/PrototypeNx/EfficientMT) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Free-Form Motion Control: Controlling the 6D Poses of Camera and Objects in Video Generation | 2025 | [Paper](https://arxiv.org/abs/2501.01425) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) I2VControl: Disentangled and Unified Video Motion Synthesis Control | 2025 | [Paper](https://arxiv.org/abs/2411.17765) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) LayerAnimate: Layer-level Control for Animation | 2025 | [Paper](https://arxiv.org/abs/2501.08295) · [GitHub](https://github.com/IamCreateAI/LayerAnimate) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Learning Few-Step Diffusion Models by Trajectory Distribution Matching | 2025 | [Paper](https://arxiv.org/abs/2503.06674) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2507.05678) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Long Context Tuning for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2503.10589) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization | 2025 | [Paper](https://arxiv.org/abs/2503.12689) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) MagicMirror: ID-Preserved Video Generation in Video Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2501.03931) · [GitHub](https://github.com/dvlab-research/MagicMirror) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance | 2025 | [Paper](https://arxiv.org/abs/2503.16421) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Mobile Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2412.07583) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent | 2025 | [Paper](https://arxiv.org/abs/2502.03207) · [GitHub](https://github.com/leoisufa/MotionAgent) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation | 2025 | [Paper](https://arxiv.org/abs/2411.17048) · [GitHub](https://github.com/EchoPluto/PersonalVideo?tab=readme-ov-file) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment | 2025 | [Paper](https://arxiv.org/abs/2502.11079) |
+| ![ICCV](https://img.shields.io/badge/ICCV-green) Precise Action-to-Video Generation Through Visual Action Prompts | 2025 | [Paper](https://arxiv.org/abs/2508.13104) |
+
 
 ### Recent Arxiv Paper
 
