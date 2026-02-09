@@ -4,7 +4,7 @@ This page contains arXiv papers related to video generation post-training.
 
 ---
 
-| **Title** | **Year** | **Paper** |
+| **Title** | **Year** | **Links** |
 | --- | --- | :---: |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MultiShotMaster: A Controllable Multi-Shot Video Generation Framework | 2025 | [Paper](https://arxiv.org/abs/2512.03041v1) · [GitHub](https://qinghew.github.io/MultiShotMaster/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization | 2025 | [Paper](https://arxiv.org/abs/2512.02933v2) · [GitHub](https://cz-5f.github.io/LoVoRA.github.io/) |
