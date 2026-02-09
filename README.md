@@ -170,6 +170,10 @@ _WIP: will be populated from `arxiv.md` once the arXiv list is complete._
 | ![PMLR](https://img.shields.io/badge/PMLR-gold) GRADEO-Instruct | 2025 | [Paper](https://arxiv.org/abs/2503.02341) |
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) OpenHumanVid | 2025 | [Paper](https://arxiv.org/abs/2412.00115) · [GitHub](https://github.com/fudan-generative-vision/OpenHumanVid) · [Website](https://fudan-generative-vision.github.io/OpenHumanVid/#/) |
 
+### Benchmarks
+
+| **Benchmark** | **Year** | **Links** |
+| --- | --- | :---: |
 
 ---
 
