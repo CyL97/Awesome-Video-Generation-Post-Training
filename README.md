@@ -8,7 +8,7 @@
 
 </div>
 
-> [**A Survey of Post-Training and Alignment in Video Generation Models**]()  
+> ## [**A Survey of Post-Training and Alignment in Video Generation Models**]()  
 > [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>,
 > [Xiaoyi Gu](https://alleria1809.github.io/)<sup>2,†</sup>,
 > [Yogesh Kulkarni](https://yogkul2000.github.io/)<sup>1</sup>,
