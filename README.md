@@ -163,8 +163,8 @@ If you find our paper or this resource helpful, please consider cite:
 | **Title (Conference / Journal)** | **Year** | **Links** |
 | --- | --- | :---: |
 | ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanFlow: Decoupled Motion Control for Panoramic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2512.00832v1) · [GitHub](https://github.com/chengzhag/PanFlow) · [Website](https://chengzhag.github.io/publication/panflow/)|
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 | [Paper](https://neurips.cc/virtual/2025/loc/mexico-city/poster/118857) · [Website](https://hjzheng.net/projects/MTV/)|
-| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Audio-Sync Video Generation with Multi-Stream Temporal Control | 2025 | [Paper](https://arxiv.org/abs/2506.08003v1) · [GitHub](https://github.com/suimuc/MTV_Framework) |
+| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 | [Paper](https://neurips.cc/virtual/2025/loc/mexico-city/poster/118857)|
+| ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Audio-Sync Video Generation with Multi-Stream Temporal Control | 2025 | [Paper](https://arxiv.org/abs/2506.08003v1) · [GitHub](https://github.com/suimuc/MTV_Framework) · [Website](https://hjzheng.net/projects/MTV/)|
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.09350v2) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.03517v2) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) EchoShot: Multi-Shot Portrait Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.15838) · [GitHub](https://github.com/JoHnneyWang/EchoShot) |
