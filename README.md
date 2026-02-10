@@ -3,7 +3,6 @@
 # Awesome Video Generation Post Training and Alignment
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx\.xxxxx-red.svg)]()
 
 [[arXiv]]() [[HuggingFace]]()
