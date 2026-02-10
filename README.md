@@ -1,12 +1,12 @@
 <div align=center>
 
-# Awesome Video Generation Post Training
+# Awesome Video Generation Post Training and Alignment
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx\.xxxxx-red.svg)]()
 
-[[arXiv]]() [[HuggingFace]]() [[Database]]()
+[[arXiv]]() [[HuggingFace]]()
 
 </div>
 
@@ -27,11 +27,11 @@
 >
 > <sup>1</sup>Arizona State University ·
 > <sup>2</sup>Twitch ·
-> <sup>3</sup>Stanford University ·
+> <sup>3</sup>Stanford ·
 > <sup>4</sup>eBay ·
 > <sup>5</sup>NewsBreak ·
 > <sup>6</sup>Microsoft ·
-> <sup>7</sup>Columbia University ·
+> <sup>7</sup>Columbia ·
 > <sup>8</sup>University of Southern California ·
 > <sup>9</sup>Carnegie Mellon University  
 >
@@ -54,7 +54,7 @@
 
 ## 🔥 News
 
-- **[2026.xx.xx]** The v1 survey is now published! We've also initialized the repository.
+- **[2026.xx.xx]** The v1 survey is now published! We have also initialized the repository.
 
 ## 🎯 Motivation
 
@@ -158,9 +158,9 @@ If you find our paper or this resource helpful, please consider cite:
 | ![WACV](https://img.shields.io/badge/WACV-dodgerblue) GeneVA | 2026 | [Paper](https://arxiv.org/abs/2509.08818) · [Website](https://www.immersivecomputinglab.org/publication/geneva/) · [Dataset](https://ai-generated-videos-icl.s3.us-east-1.amazonaws.com) |
 
 
-### Recent Conference Paper
+### Recent Conference Papers
 
-| **Title (Conference / Journal)** | **Year** | **Links** |
+| **Title** | **Year** | **Links** |
 | --- | --- | :---: |
 | ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanFlow: Decoupled Motion Control for Panoramic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2512.00832v1) · [GitHub](https://github.com/chengzhag/PanFlow) · [Website](https://chengzhag.github.io/publication/panflow/)|
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 | [Paper](https://neurips.cc/virtual/2025/loc/mexico-city/poster/118857)|
@@ -214,9 +214,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![ICCV](https://img.shields.io/badge/ICCV-green) Precise Action-to-Video Generation Through Visual Action Prompts | 2025 | [Paper](https://arxiv.org/abs/2508.13104) |
 
 
-### Recent Arxiv Paper
-
-_WIP: will be populated from `arxiv.md` once the arXiv list is complete._
+### Recent Arxiv Papers
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
