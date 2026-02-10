@@ -35,7 +35,7 @@
 > <sup>8</sup>University of Southern California ·
 > <sup>9</sup>Carnegie Mellon University  
 >
-> <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: [Chaoyu Li](chaoyuli@asu.edu) , [Pooyan Fazli](pooyan@asu.edu).
+> <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: [Chaoyu Li](mailto:chaoyuli@asu.edu) , [Pooyan Fazli](mailto:pooyan@asu.edu).
 
 ---
 
