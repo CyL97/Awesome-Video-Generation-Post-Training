@@ -10,7 +10,7 @@
 
 </div>
 
-> **** [[arXiv]]()  
+> A Survey of Post-Training and Alignment in Video Generation Models [[arXiv]]()  
 > [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>,
 > Xiaoyi Gu<sup>2,†</sup>,
 > Yogesh Kulkarni<sup>1</sup>,
