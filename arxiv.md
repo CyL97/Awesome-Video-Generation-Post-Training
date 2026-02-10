@@ -170,6 +170,59 @@ This page contains arXiv papers related to video generation post-training.
 | ![arXiv](https://img.shields.io/badge/arXiv-red) From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.07280v2) · [GitHub](https://github.com/PabloAcuaviva/Gen2Gen) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Restereo: Diffusion stereo video generation and restoration | 2025 | [Paper](https://arxiv.org/abs/2506.06023v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning | 2025 | [Paper](https://arxiv.org/abs/2506.05207v2) · [Website](https://follow-your-motion.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Follow-Your-Creation: Empowering 4D Creation through Video Inpainting | 2025 | [Paper](https://arxiv.org/abs/2506.04590v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) UNIC: Unified In-Context Video Editing | 2025 | [Paper](https://arxiv.org/abs/2506.04216v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2506.04213v2) · [Website](https://fulldit2.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) CamCloneMaster: Enabling Reference-based Camera Control for Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.03140v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Controllable Human-centric Keyframe Interpolation with Generative Prior | 2025 | [Paper](https://arxiv.org/abs/2506.03119v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ORV: 4D Occupancy-centric Robot Video Generation | 2025 | [Paper](https://arxiv.org/abs/2506.03079v2) · [Website](https://orangesodahub.github.io/ORV) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2506.03065v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering | 2025 | [Paper](https://arxiv.org/abs/2506.02733v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Physics-Guided Motion Loss for Video Generation Model | 2025 | [Paper](https://arxiv.org/abs/2506.02244v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control | 2025 | [Paper](https://arxiv.org/abs/2506.01943v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation | 2025 | [Paper](https://arxiv.org/abs/2506.01801v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks | 2025 | [Paper](https://arxiv.org/abs/2506.01758v2) · [GitHub](https://github.com/leeruibin/MfM.git) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents | 2025 | [Paper](https://arxiv.org/abs/2506.01689v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation | 2025 | [Paper](https://arxiv.org/abs/2506.01591v1) · [GitHub](https://github.com/yuangan/Silencer) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Playing with Transformer at 30+ FPS via Next-Frame Diffusion | 2025 | [Paper](https://arxiv.org/abs/2506.01380v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) DeepVerse: 4D Autoregressive Video Generation as a World Model | 2025 | [Paper](https://arxiv.org/abs/2506.01103v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Temporal In-Context Fine-Tuning for Versatile Control of Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.00996v1) · [Website](https://kinam0252.github.io/TIC-FT/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers | 2025 | [Paper](https://arxiv.org/abs/2506.00830v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Video Signature: Implicit Watermarking for Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.00652v4) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes | 2025 | [Paper](https://arxiv.org/abs/2506.00227v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MAGREF: Masked Guidance for Any-Reference Video Generation with Subject Disentanglement | 2025 | [Paper](https://arxiv.org/abs/2505.23742v2) · [GitHub](https://github.com/MAGREF-Video/MAGREF) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ATI: Any Trajectory Instruction for Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2505.22944v3) · [Website](https://anytraj.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) FaceEditTalker: Controllable Talking Head Generation with Facial Attribute Editing | 2025 | [Paper](https://arxiv.org/abs/2505.22141v2) · [Website](https://peterfanfan.github.io/FaceEditTalker/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance | 2025 | [Paper](https://arxiv.org/abs/2505.21876v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Think Before You Diffuse: Infusing Physical Rules into Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2505.21653v3) · [Website](https://bwgzk-keke.github.io/DiffPhy/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Any-to-Bokeh: Arbitrary-Subject Video Refocusing with Video Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2505.21593v3) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MotionPro: A Precise Motion Controller for Image-to-Video Generation | 2025 | [Paper](https://arxiv.org/abs/2505.20287v1) · [Website](https://zhw-zhang.github.io/MotionPro-page/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters | 2025 | [Paper](https://arxiv.org/abs/2505.20156v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM | 2025 | [Paper](https://arxiv.org/abs/2505.19901v3) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation | 2025 | [Paper](https://arxiv.org/abs/2505.18078v1) · [Website](https://DanceTog.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SafeMVDrive: Multi-view Safety-Critical Driving Video Synthesis in the Real World Domain | 2025 | [Paper](https://arxiv.org/abs/2505.17727v1) · [Website](https://zhoujiawei3.github.io/SafeMVDrive/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2505.17550v3) · [GitHub](https://github.com/VDIGPKU/T2VUnlearning.git) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance | 2025 | [Paper](https://arxiv.org/abs/2505.13437v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation | 2025 | [Paper](https://arxiv.org/abs/2505.10238v4) · [GitHub](https://github.com/DINGYANB/MTVCrafter) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2505.09858v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model | 2025 | [Paper](https://arxiv.org/abs/2505.07449v7) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images | 2025 | [Paper](https://arxiv.org/abs/2505.06537v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation | 2025 | [Paper](https://arxiv.org/abs/2505.04512v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) A Unit Enhancement and Guidance Framework for Audio-Driven Avatar Video Generation | 2025 | [Paper](https://arxiv.org/abs/2505.03603v5) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2505.01406v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction | 2025 | [Paper](https://arxiv.org/abs/2504.21855v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation | 2025 | [Paper](https://arxiv.org/abs/2504.21650v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance | 2025 | [Paper](https://arxiv.org/abs/2504.16464v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Subject-driven Video Generation via Disentangled Identity and Motion | 2025 | [Paper](https://arxiv.org/abs/2504.17816v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning | 2025 | [Paper](https://arxiv.org/abs/2504.15932v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer | 2025 | [Paper](https://arxiv.org/abs/2504.11289v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Taming Consistency Distillation for Accelerated Human Image Animation | 2025 | [Paper](https://arxiv.org/abs/2504.11143v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Aligning Anime Video Generation with Human Feedback | 2025 | [Paper](https://arxiv.org/abs/2504.10044v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) I Want It That Way! Specifying Nuanced Camera Motions in Video Editing | 2025 | [Paper](https://arxiv.org/abs/2504.09472v2) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Discriminator-Free Direct Preference Optimization for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.08542v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2504.08344v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | 2025 | [Paper](https://arxiv.org/abs/2504.06672v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2305.10874) |
 
 
 
