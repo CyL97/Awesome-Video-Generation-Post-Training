@@ -3,9 +3,9 @@
 # Awesome Video Generation Post Training and Alignment
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx\.xxxxx-red.svg)]()
+[![arXiv](https://img.shields.io/badge/Arxiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)]() 
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)]()
-[![arXiv](https://img.shields.io/badge/Arxiv-2505.20292-b31b1b.svg?logo=arXiv)]() 
+
 </div>
 
 > **A Survey of Post-Training and Alignment in Video Generation Models** [[arXiv]]()  
