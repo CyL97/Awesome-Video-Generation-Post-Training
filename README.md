@@ -12,18 +12,18 @@
 
 > **A Survey of Post-Training and Alignment in Video Generation Models** [[arXiv]]()  
 > [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>,
-> Xiaoyi Gu<sup>2,†</sup>,
-> Yogesh Kulkarni<sup>1</sup>,
-> Eun Woo Im<sup>1</sup>,
-> Mohammadmahdi Honarmand<sup>3</sup>,
+> [Xiaoyi Gu](https://alleria1809.github.io/)<sup>2,†</sup>,
+> [Yogesh Kulkarni](https://yogkul2000.github.io/)<sup>1</sup>,
+> [Eun Woo Im](https://eunwooim.github.io/)<sup>1</sup>,
+> [Mohammadmahdi Honarmand](https://scholar.google.com/citations?user=s0mTGYkAAAAJ&hl=en)<sup>3</sup>,
 > Zeyu Wang<sup>4</sup>,
-> Juntong Song<sup>5</sup>,
+> [Juntong Song](https://scholar.google.com/citations?user=ZLeZfM4AAAAJ&hl=en)<sup>5</sup>,
 > Fei Du<sup>6</sup>,
-> Xilin Jiang<sup>7</sup>,
-> Kexin Zheng<sup>8</sup>,
-> Tianzhi Li<sup>9</sup>,
-> Fei Tao<sup>5</sup>,
-> Pooyan Fazli<sup>1</sup>  
+> [Xilin Jiang](https://xi-j.github.io/)<sup>7</sup>,
+> [Kexin Zheng](https://kellyzhengusc.github.io/)<sup>8</sup>,
+> [Tianzhi Li](https://www.linkedin.com/in/androli/)<sup>9</sup>,
+> [Fei Tao](https://scholar.google.com/citations?user=KhWMky4AAAAJ&hl=en)<sup>5</sup>,
+> [Pooyan Fazli](https://pooyanfazli.com/)<sup>*,1</sup>  
 >
 > <sup>1</sup>Arizona State University ·
 > <sup>2</sup>Twitch ·
@@ -35,7 +35,7 @@
 > <sup>8</sup>University of Southern California ·
 > <sup>9</sup>Carnegie Mellon University  
 >
-> <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: Chaoyu Li (chaoyuli@asu.edu).
+> <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: [Chaoyu Li](chaoyuli@asu.edu) , [Pooyan Fazli](pooyan@asu.edu).
 
 ---
 
@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities, please feel free to reach out:
 
-✉️ Email:  [chaoyuli@asu.edu](mailto:chaoyuli@asu.edu)
+✉️ Email:  [chaoyuli@asu.edu](mailto:chaoyuli@asu.edu), [pooyan@asu.edu](mailto:pooyan@asu.edu)
 
 ## ✨ Star History
 
