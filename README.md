@@ -14,7 +14,7 @@
 > [Yogesh Kulkarni](https://yogkul2000.github.io/)<sup>1</sup>,
 > [Eun Woo Im](https://eunwooim.github.io/)<sup>1</sup>,
 > [Mohammadmahdi Honarmand](https://scholar.google.com/citations?user=s0mTGYkAAAAJ&hl=en)<sup>3</sup>,
-> Zeyu Wang<sup>4</sup>,
+> [Zeyu Wang](https://www.linkedin.com/in/zeyu-wang-jasper/)<sup>4</sup>,
 > [Juntong Song](https://scholar.google.com/citations?user=ZLeZfM4AAAAJ&hl=en)<sup>5</sup>,
 > Fei Du<sup>6</sup>,
 > [Xilin Jiang](https://xi-j.github.io/)<sup>7</sup>,
