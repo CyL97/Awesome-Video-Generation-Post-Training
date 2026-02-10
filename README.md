@@ -16,7 +16,7 @@
 > [Mohammadmahdi Honarmand](https://scholar.google.com/citations?user=s0mTGYkAAAAJ&hl=en)<sup>3</sup>,
 > [Zeyu Wang](https://www.linkedin.com/in/zeyu-wang-jasper/)<sup>4</sup>,
 > [Juntong Song](https://scholar.google.com/citations?user=ZLeZfM4AAAAJ&hl=en)<sup>5</sup>,
-> Fei Du<sup>6</sup>,
+> [Fei Du](https://www.linkedin.com/in/fei-du-558260229/)<sup>6</sup>,
 > [Xilin Jiang](https://xi-j.github.io/)<sup>7</sup>,
 > [Kexin Zheng](https://kellyzhengusc.github.io/)<sup>8</sup>,
 > [Tianzhi Li](https://www.linkedin.com/in/androli/)<sup>9</sup>,
