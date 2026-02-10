@@ -4,8 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx\.xxxxx-red.svg)]()
-
-[[arXiv]]() [[HuggingFace]]()
+[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)]()
 
 </div>
 
