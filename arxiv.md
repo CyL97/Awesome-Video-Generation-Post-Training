@@ -6,6 +6,26 @@ This page contains arXiv papers related to video generation post-training.
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.03621v1) · [Website](https://recamdriving.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) In-Context Sync-LoRA for Portrait Video Editing | 2025 | [Paper](https://arxiv.org/abs/2512.03013v1) · [Website](https://sagipolaczek.github.io/Sync-LoRA/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Progressive Image Restoration via Text-Conditioned Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.02273v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Generative Video Motion Editing with 3D Point Tracks | 2025 | [Paper](https://arxiv.org/abs/2512.02015v1) · [Website](https://edit-by-track.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.01960v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models | 2025 | [Paper](https://arxiv.org/abs/2512.01686v1) · [Website](https://yj7082126.github.io/dreamingcomics/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Low-Bitrate Video Compression through Semantic-Conditioned Diffusion | 2025 | [Paper](https://arxiv.org/abs/2512.00408v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement | 2025 | [Paper](https://arxiv.org/abs/2511.23475v1) · [Website](https://hkust-c4g.github.io/AnyTalker-homepage/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.22973v1) · [Website](https://ziplab.co/BlockVid) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.22098v1) · [GitHub](https://github.com/showlab/WorldWander) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2511.21129v1) · [Website](https://tele-ai.github.io/CtrlVDiff/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MotionV2V: Editing Motion in a Video | 2025 | [Paper](https://arxiv.org/abs/2511.20640v1) · [Website](https://ryanndagreat.github.io/MotionV2V/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis | 2025 | [Paper](https://arxiv.org/abs/2511.20186v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation | 2025 | [Paper](https://arxiv.org/abs/2511.19320v1) · [Website](https://mcg-nju.github.io/steadydancer-web/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Beyond Reward Margin: Rethinking and Resolving Likelihood Displacement in Diffusion Models via Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.19049v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) View-Consistent Diffusion Representations for 3D-Consistent Video Generation | 2025 | [Paper](https://arxiv.org/abs/2511.18991v1) · [Website](https://danier97.github.io/ViCoDR/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Eevee: Towards Close-up High-resolution Video-based Virtual Try-on | 2025 | [Paper](https://arxiv.org/abs/2511.18957v1) · [GitHub](https://github.com/AMAP-ML/Eevee) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | 2025 | [Paper](https://arxiv.org/abs/2511.18786v1) · [Website](https://jychen9811.github.io/STCDiT_page/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Point-to-Point: Sparse Motion Guidance for Controllable Video Editing | 2025 | [Paper](https://arxiv.org/abs/2511.18277v1) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) CamC2V: Context-aware Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2504.06022v2) · [GitHub](https://github.com/LDenninger/CamC2V) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MultiShotMaster: A Controllable Multi-Shot Video Generation Framework | 2025 | [Paper](https://arxiv.org/abs/2512.03041v1) · [GitHub](https://qinghew.github.io/MultiShotMaster/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization | 2025 | [Paper](https://arxiv.org/abs/2512.02933v2) · [GitHub](https://cz-5f.github.io/LoVoRA.github.io/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Taming Camera-Controlled Video Generation with Verifiable Geometry Reward | 2025 | [Paper](https://arxiv.org/abs/2512.02870v1) |
@@ -150,4 +170,6 @@ This page contains arXiv papers related to video generation post-training.
 | ![arXiv](https://img.shields.io/badge/arXiv-red) From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.07280v2) · [GitHub](https://github.com/PabloAcuaviva/Gen2Gen) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Restereo: Diffusion stereo video generation and restoration | 2025 | [Paper](https://arxiv.org/abs/2506.06023v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning | 2025 | [Paper](https://arxiv.org/abs/2506.05207v2) · [Website](https://follow-your-motion.github.io/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) CamC2V: Context-aware Controllable Video Generation | 2025 | [Paper](https://arxiv.org/abs/2504.06022v2) · [GitHub](https://github.com/LDenninger/CamC2V) |
+
+
+
