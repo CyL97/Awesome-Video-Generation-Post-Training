@@ -3,7 +3,7 @@
 # Awesome Video Generation Post Training and Alignment
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/Arxiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)]() 
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)]() 
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)]()
 
 </div>
@@ -76,7 +76,7 @@ If you find our paper or this resource helpful, please consider cite:
 ## 📚 Contents
 
 - [Awesome Video Generation Post Training](#)
-    - [Arxiv Paper](arxiv.md)
+    - [arXiv Paper](arxiv.md)
     - [Conference Paper](conference.md)
 
 ---
@@ -214,7 +214,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![ICCV](https://img.shields.io/badge/ICCV-green) Precise Action-to-Video Generation Through Visual Action Prompts | 2025 | [Paper](https://arxiv.org/abs/2508.13104) |
 
 
-### Recent Arxiv Papers
+### Recent arXiv Papers
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
