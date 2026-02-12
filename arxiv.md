@@ -6,7 +6,7 @@ This page contains arXiv papers related to video generation post-training.
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.03621v1) · [Website](https://recamdriving.github.io/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.03621v1) · [GitHub](https://github.com/Iron-LYK/ReCamDriving) · [Website](https://recamdriving.github.io/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) In-Context Sync-LoRA for Portrait Video Editing | 2025 | [Paper](https://arxiv.org/abs/2512.03013v1) · [Website](https://sagipolaczek.github.io/Sync-LoRA/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Progressive Image Restoration via Text-Conditioned Video Generation | 2025 | [Paper](https://arxiv.org/abs/2512.02273v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Generative Video Motion Editing with 3D Point Tracks | 2025 | [Paper](https://arxiv.org/abs/2512.02015v1) · [Website](https://edit-by-track.github.io/) |
