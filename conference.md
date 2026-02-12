@@ -3,6 +3,7 @@
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
 | ![AAAI](https://img.shields.io/badge/AAAI-cyan) PanFlow: Decoupled Motion Control for Panoramic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2512.00832v1) · [GitHub](https://github.com/chengzhag/PanFlow) · [Website](https://chengzhag.github.io/publication/panflow/)|
+| ![AAAI](https://img.shields.io/badge/AAAI-cyan) Phased One-Step Adversarial Equilibrium for Video Diffusion Models | 2026 | [Paper](https://arxiv.org/abs/2508.21019v2) · [Website](https://v-pae.github.io/)|
 | ![WACV](https://img.shields.io/badge/WACV-dodgerblue) Show Me: Unifying Instructional Image and Video Generation with Diffusion Models | 2026 | [Paper](https://arxiv.org/abs/2511.17839v1) · [GitHub](https://github.com/yujiangpu20/ShowMe-master) · [Website](https://yujiangpu20.github.io/showme/) |
 | ![WACV](https://img.shields.io/badge/WACV-dodgerblue) UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models | 2026 | [Paper](https://arxiv.org/abs/2509.21760v1) · [GitHub](https://github.com/CUC-MIPG/UniVid)|
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation | 2025 | [Paper](https://neurips.cc/virtual/2025/loc/mexico-city/poster/118857)|
