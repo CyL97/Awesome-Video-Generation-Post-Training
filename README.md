@@ -1,6 +1,6 @@
 <div align=center>
 
-# Awesome Video Generation Post Training and Alignment
+# Awesome Video Generation Post Training
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)]() 
