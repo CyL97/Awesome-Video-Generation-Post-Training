@@ -531,8 +531,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 👏 Thanks to these contributors for this excellent work！
 
-<a href="https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cokeshao/Awesome-Multimodal-Token-Compression" />
+<a href="https://github.com/CyL97/Awesome-Video-Generation-Post-Training/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CyL97/Awesome-Video-Generation-Post-Training" />
 </a>
 
 ## ✉️ Contact
