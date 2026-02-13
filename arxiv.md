@@ -1,7 +1,4 @@
 # arXiv Papers
-
-This page contains arXiv papers related to video generation post-training.
-
 ---
 
 | **Title** | **Year** | **Links** |
