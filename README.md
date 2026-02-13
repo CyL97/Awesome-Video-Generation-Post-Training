@@ -35,7 +35,7 @@
 >
 > <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: [Chaoyu Li](mailto:chaoyuli@asu.edu) , [Pooyan Fazli](mailto:pooyan@asu.edu).
 
-![teaser](figures/teaser.png)
+![timeline](figures/timeline.png)
 
 ---
 
@@ -57,8 +57,18 @@
 - **[2026.xx.xx]** The v1 survey is now published! We have also initialized the repository.
 
 ## 🎯 Motivation
+![teaser](figures/teaser.png)
+While large-scale pretraining has significantly improved video generation models, aligning them with human intent, physical constraints, and deployment requirements remains a major challenge. As a result, post-training and alignment techniques have rapidly become a central research focus in modern video generation.
 
-> **Motivation:** .
+In our survey paper *“Video Generation Models: A Survey of Post-Training and Alignment”*, we systematically review recent progress in supervised fine-tuning, self-training and distillation, preference-based optimization, and inference-time alignment methods.
+
+This repository serves as a companion resource to the survey.  
+It aims to:
+
+- 📚 Curate recent papers on post-training and alignment for video generation  
+- 📊 Collect datasets and evaluation benchmarks related to post-training and alignment
+
+We hope this repository provides researchers and practitioners with a convenient, up-to-date reference for exploring the evolving landscape of post-training and alignment in video generation models.
 
 ## 📌 Citation
 
