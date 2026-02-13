@@ -41,13 +41,9 @@
 
 > [!IMPORTANT]
 > We welcome your help in improving the repository and paper. Please feel free to submit a [pull request]() to:
-> 
 > - Add a relevant paper not yet included.
->
 > - Suggest a more suitable category.
->
 > - Update the information.
->
 > - Ask for clarification about any content.
 
 ---
