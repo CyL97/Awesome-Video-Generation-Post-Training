@@ -73,11 +73,11 @@ If you find our paper or this resource helpful, please consider cite:
 }
 ```
 
-## 📚 Contents
+## 📚 Complete List of Papers
 
 - [Awesome Video Generation Post Training](#)
-    - [arXiv Paper](arxiv.md)
-    - [Conference Paper](conference.md)
+    - [arXiv Papers](arxiv.md)
+    - [Conference Papers](conference.md)
 
 ---
 
