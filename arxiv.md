@@ -167,7 +167,6 @@ This page contains arXiv papers related to video generation post-training.
 | ![arXiv](https://img.shields.io/badge/arXiv-red) OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation | 2025 | [Paper](https://arxiv.org/abs/2506.01801v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks | 2025 | [Paper](https://arxiv.org/abs/2506.01758v2) · [GitHub](https://github.com/leeruibin/MfM) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents | 2025 | [Paper](https://arxiv.org/abs/2506.01689v1) |
-
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Playing with Transformer at 30+ FPS via Next-Frame Diffusion | 2025 | [Paper](https://arxiv.org/abs/2506.01380v2) · [Website](https://nextframed.github.io/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DeepVerse: 4D Autoregressive Video Generation as a World Model | 2025 | [Paper](https://arxiv.org/abs/2506.01103v1) · [GitHub](https://github.com/SOTAMak1r/DeepVerse) · [Website](https://sotamak1r.github.io/deepverse/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Temporal In-Context Fine-Tuning for Versatile Control of Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2506.00996v1) · [GitHub](https://github.com/kinam0252/TIC-FT) · [Website](https://kinam0252.github.io/TIC-FT/) |
