@@ -78,8 +78,8 @@ If you find our paper or this resource helpful, please consider cite:
 - [Awesome Video Generation Post Training](#)
     - [Datasets](#datasets)
     - [Benchmarks](#benchmarks)
-    - [arXiv Papers](#arXiv-papers)
     - [Conference Papers](#conference-papers)
+    - [arXiv Papers](#arXiv-papers)
 
 ---
 
