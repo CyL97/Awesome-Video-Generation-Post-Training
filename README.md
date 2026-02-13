@@ -9,7 +9,7 @@
 </div>
 
 > ## [**Video Generation Models: A Survey of Post-Training and Alignment**]()  
-> [Chaoyu Li](https://chaoyuli.com/)<sup>\*,1,†</sup>,
+> [Chaoyu Li](https://chaoyuli.com/)<sup>1,†,\*</sup>,
 > [Xiaoyi Gu](https://alleria1809.github.io/)<sup>2,†</sup>,
 > [Yogesh Kulkarni](https://yogkul2000.github.io/)<sup>1</sup>,
 > [Eun Woo Im](https://eunwooim.github.io/)<sup>1</sup>,
@@ -21,15 +21,15 @@
 > [Kexin Zheng](https://kellyzhengusc.github.io/)<sup>8</sup>,
 > [Tianzhi Li](https://www.linkedin.com/in/androli/)<sup>9</sup>,
 > [Fei Tao](https://scholar.google.com/citations?user=KhWMky4AAAAJ&hl=en)<sup>5</sup>,
-> [Pooyan Fazli](https://pooyanfazli.com/)<sup>*,1</sup>  
+> [Pooyan Fazli](https://pooyanfazli.com/)<sup>1,\*</sup>  
 >
 > <sup>1</sup>Arizona State University ·
 > <sup>2</sup>Twitch ·
-> <sup>3</sup>Stanford ·
+> <sup>3</sup>Stanford University ·
 > <sup>4</sup>eBay ·
 > <sup>5</sup>NewsBreak ·
 > <sup>6</sup>Microsoft ·
-> <sup>7</sup>Columbia ·
+> <sup>7</sup>Columbia University ·
 > <sup>8</sup>University of Southern California ·
 > <sup>9</sup>Carnegie Mellon University  
 >
