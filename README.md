@@ -73,11 +73,13 @@ If you find our paper or this resource helpful, please consider cite:
 }
 ```
 
-## 📚 Complete List of Papers
+## 📚 Content
 
 - [Awesome Video Generation Post Training](#)
-    - [arXiv Papers](arxiv.md)
-    - [Conference Papers](conference.md)
+    - [Datasets](#-datasets)
+    - [Benchmarks](#-benchmarks)
+    - [arXiv Papers](#-arXiv-papers)
+    - [Conference Papers](#-conference-papers)
 
 ---
 
@@ -158,7 +160,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![WACV](https://img.shields.io/badge/WACV-dodgerblue) GeneVA | 2026 | [Paper](https://arxiv.org/abs/2509.08818) · [Website](https://www.immersivecomputinglab.org/publication/geneva/) · [Dataset](https://ai-generated-videos-icl.s3.us-east-1.amazonaws.com) |
 
 
-### Recent Conference Papers
+### Conference Papers
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
@@ -317,7 +319,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![ICCV](https://img.shields.io/badge/ICCV-green) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2212.11565) · [GitHub](https://github.com/showlab/Tune-A-Video) · [Website](https://tuneavideo.github.io/)|
 
 
-### Recent arXiv Papers
+### arXiv Papers
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
