@@ -56,7 +56,7 @@
 ![teaser](figures/teaser.png)
 While large-scale pretraining has significantly improved video generation models, aligning them with human intent, physical constraints, and deployment requirements remains a major challenge. As a result, post-training and alignment techniques have rapidly become a central research focus in modern video generation.
 
-In our survey paper *“Video Generation Models: A Survey of Post-Training and Alignment”*, we systematically review recent progress in supervised fine-tuning, self-training and distillation, preference-based optimization, and inference-time alignment methods.
+In our survey paper, we systematically review recent progress in supervised fine-tuning, self-training and distillation, preference-based optimization, and inference-time alignment methods.
 
 This repository serves as a companion resource to the survey.  
 It aims to:
