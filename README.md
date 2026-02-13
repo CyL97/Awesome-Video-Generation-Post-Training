@@ -91,20 +91,20 @@ If you find our paper or this resource helpful, please consider cite:
 | ![ICCV](https://img.shields.io/badge/ICCV-green) SynFMC | 2025 | [Paper](https://arxiv.org/abs/2501.01425) · [GitHub](https://github.com/FudanCVL/SynFMC) · [Website](https://henghuiding.com/SynFMC/) · [Dataset](https://huggingface.co/datasets/XinchengShuai/SynFMC) |
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) CookGen | 2025 | [Paper](https://arxiv.org/abs/2501.06173) · [Website](https://videoauteur.github.io/) · [Dataset](https://huggingface.co/datasets/lambertxiao/CookGen_youcook2) |
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) HOIGen-1M | 2025 | [Paper](https://arxiv.org/abs/2503.23715) · [Website](https://liuqi-creat.github.io/HOIGen.github.io/) · [Dataset](https://huggingface.co/datasets/HOIGen/HOIGen-1M) |
+| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) OpenHumanVid | 2025 | [Paper](https://arxiv.org/abs/2412.00115) · [GitHub](https://github.com/fudan-generative-vision/OpenHumanVid) · [Website](https://fudan-generative-vision.github.io/OpenHumanVid/#/) |
 | ![ICML](https://img.shields.io/badge/ICML-indigo) PhyWorld | 2025 | [Paper](https://arxiv.org/abs/2411.02385) · [GitHub](https://github.com/phyworld/phyworld) · [Website](https://phyworld.github.io/) · [Dataset](https://huggingface.co/datasets/magicr/phyworld) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) WISA-80K | 2025 | [Paper](https://arxiv.org/abs/2503.08153) · [GitHub](https://github.com/360CVGroup/WISA) · [Website](https://360cvgroup.github.io/WISA/) · [Dataset](https://huggingface.co/datasets/qihoo360/WISA-80K) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) VideoUFO | 2025 | [Paper](https://arxiv.org/abs/2503.01739) · [GitHub](https://github.com/WangWenhao0716/BenchUFO) · [Dataset](https://huggingface.co/datasets/WenhaoWang/VideoUFO) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) TalkCuts | 2025 | [Paper](https://arxiv.org/abs/2510.07249) · [GitHub](https://github.com/UMass-Embodied-AGI/TalkCuts) · [Website](https://talkcuts.github.io/) · [Dataset](https://docs.google.com/forms/d/e/1FAIpQLSfapK7pqgyrcCaOxJn8yQc79AYaq1DOvJzL0-VZnLiA3CvpyQ/viewform) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) EgoVid-5M | 2025 | [Paper](https://arxiv.org/abs/2411.08380) · [GitHub](https://github.com/JeffWang987/EgoVid) · [Website](https://egovid.github.io/) · [Dataset](https://modelscope.cn/datasets/iic/EgoVid/) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) OpenS2V-5M | 2025 | [Paper](https://arxiv.org/abs/2505.20292) · [GitHub](https://github.com/PKU-YuanGroup/OpenS2V-Nexus) · [Website](https://pku-yuangroup.github.io/OpenS2V-Nexus/) · [Dataset](https://huggingface.co/datasets/BestWishYsh/OpenS2V-5M) |
+| ![PMLR](https://img.shields.io/badge/PMLR-gold) GRADEO-Instruct | 2025 | [Paper](https://arxiv.org/abs/2503.02341) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CI-VID | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/ymju-BAAI/CI-VID) · [Dataset](https://huggingface.co/datasets/BAAI/CI-VID) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PNData | 2025 | [Paper](https://arxiv.org/abs/2506.16119) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PairFS-4K | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/yisuanwang/DanceTog) · [Website](https://dancetog.github.io) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DAVID-X | 2025 | [Paper](https://arxiv.org/abs/2506.14827) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Dprim | 2025 | [Paper](https://arxiv.org/abs/2508.20840) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MMVideo | 2025 | [Paper](https://arxiv.org/abs/2507.01938) · [GitHub](https://github.com/Tele-AI/CtrlVDiff) · [Website](https://tele-ai.github.io/CtrlVDiff) |
-| ![PMLR](https://img.shields.io/badge/PMLR-gold) GRADEO-Instruct | 2025 | [Paper](https://arxiv.org/abs/2503.02341) |
-| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) OpenHumanVid | 2025 | [Paper](https://arxiv.org/abs/2412.00115) · [GitHub](https://github.com/fudan-generative-vision/OpenHumanVid) · [Website](https://fudan-generative-vision.github.io/OpenHumanVid/#/) |
 
 ### Benchmarks
 
