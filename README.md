@@ -67,7 +67,7 @@ It aims to:
 
 We hope this repository provides researchers and practitioners with a convenient, up-to-date reference for exploring the evolving landscape of post-training and alignment in video generation models.
 
-<!-- ## 📌 Citation 
+## 📌 Citation 
 
 If you find our paper or this resource helpful, please consider cite:
 
@@ -78,7 +78,7 @@ If you find our paper or this resource helpful, please consider cite:
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
-``` -->
+```
 
 ## 📚 Content
 
