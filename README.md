@@ -36,7 +36,7 @@
 >
 > <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: [Chaoyu Li](mailto:chaoyuli@asu.edu) , [Pooyan Fazli](mailto:pooyan@asu.edu).
 
-![timeline](figures/timeline.pdf)
+![timeline](figures/timeline.png)
 
 ---
 
