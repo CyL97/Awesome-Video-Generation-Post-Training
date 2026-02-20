@@ -10,7 +10,7 @@
 </div>
 
 > ## [**Video Generation Models: A Survey of Post-Training and Alignment**]()  
-> [Chaoyu Li](https://chaoyuli.com/)<sup>1,†,\*</sup>,
+> [Chaoyu Li](https://chaoyuli.com/)<sup>1,†,✉️</sup>,
 > [Xiaoyi Gu](https://alleria1809.github.io/)<sup>2,†</sup>,
 > [Yogesh Kulkarni](https://yogkul2000.github.io/)<sup>1</sup>,
 > [Eun Woo Im](https://eunwooim.github.io/)<sup>1</sup>,
@@ -22,7 +22,7 @@
 > [Kexin Zheng](https://kellyzhengusc.github.io/)<sup>8</sup>,
 > [Tianzhi Li](https://www.linkedin.com/in/androli/)<sup>9</sup>,
 > [Fei Tao](https://scholar.google.com/citations?user=KhWMky4AAAAJ&hl=en)<sup>5</sup>,
-> [Pooyan Fazli](https://pooyanfazli.com/)<sup>1,\*</sup>  
+> [Pooyan Fazli](https://pooyanfazli.com/)<sup>1,✉️</sup>  
 >
 > <sup>1</sup>Arizona State University ·
 > <sup>2</sup>Twitch ·
@@ -34,7 +34,7 @@
 > <sup>8</sup>University of Southern California ·
 > <sup>9</sup>Carnegie Mellon University  
 >
-> <sup>†</sup>Equal contribution. <sup>\*</sup>Corresponding author: [Chaoyu Li](mailto:chaoyuli@asu.edu) , [Pooyan Fazli](mailto:pooyan@asu.edu).
+> <sup>†</sup>Equal contribution. <sup>✉️</sup>Corresponding author: [Chaoyu Li](mailto:chaoyuli@asu.edu) , [Pooyan Fazli](mailto:pooyan@asu.edu).
 
 ![timeline](figures/timeline.png)
 
