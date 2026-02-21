@@ -603,8 +603,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 👏 Thanks to these contributors for this excellent work！
 
 <a href="https://github.com/CyL97/Awesome-Video-Generation-Post-Training/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CyL97/Awesome-Video-Generation-Post-Training" />
+  <img src="https://contrib.rocks/image?repo=CyL97/Awesome-Video-Generation-Post-Training&max=2000" />
 </a>
+
 
 ## ✉️ Contact
 
