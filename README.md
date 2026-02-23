@@ -2,7 +2,7 @@
 
 # Awesome Video Generation Post Training
 
-🔥 A continuously updated repository of research on post-training and alignment for video generation (2022–2026).
+🔥 A continuously updated repository of research on post-training and alignment for video generation.
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
