@@ -73,7 +73,7 @@ It aims to:
 
 We hope this repository provides researchers and practitioners with a convenient, up-to-date reference for exploring the evolving landscape of post-training and alignment in video generation models.
 
-## 📌 Citation 
+<!-- ## 📌 Citation 
 
 If you find our paper or this resource helpful, please consider cite:
 
@@ -84,15 +84,15 @@ If you find our paper or this resource helpful, please consider cite:
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
-```
+``` -->
 
 ## 📚 Content
 
-- [Awesome Video Generation Post Training](#)
+- [Awesome Video Generation Post Training](#awesome-video-generation-post-training)
     - [Datasets](#datasets)
     - [Benchmarks](#benchmarks)
     - [Conference Papers](#conference-papers)
-    - [arXiv Papers](#arXiv-papers)
+    - [arXiv Papers](#arxiv-papers)
 
 ---
 
