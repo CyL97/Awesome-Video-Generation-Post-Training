@@ -165,6 +165,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) VIPER | 2025 | [Paper](https://arxiv.org/abs/2512.24952) · [GitHub](https://github.com/RUCAIBox/VIPER) · [Dataset](https://huggingface.co/datasets/Monosail/VIPER)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Video Reality Test | 2025 | [Paper](https://arxiv.org/abs/2512.13281) · [GitHub](https://github.com/video-reality-test/video-reality-test) · [Website](https://video-reality-test.github.io/) · [Dataset](https://huggingface.co/datasets/kolerk/Video_Reality_Test) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) T2AV-Compass | 2025 | [Paper](https://arxiv.org/abs/2512.21094) · [Dataset](https://huggingface.co/datasets/NJU-LINK/T2AV-Compass) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) WYD | 2025 | [Paper](https://arxiv.org/abs/2503.04666) · [GitHub](https://github.com/google-deepmind/wyd-benchmark)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) GenVidBench | 2025 | [Paper](https://arxiv.org/abs/2511.13897) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DIVE | 2025 | [Paper](https://arxiv.org/abs/2505.19901) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) UI2V-Bench | 2025 | [Paper](https://arxiv.org/abs/2509.24427) |
