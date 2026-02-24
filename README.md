@@ -622,4 +622,4 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ## ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CyL97/Awesome-Video-Generation-Post-Training&type=Date&cache=20260220)](https://www.star-history.com/#CyL97/Awesome-Video-Generation-Post-Training&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CyL97/Awesome-Video-Generation-Post-Training&type=Date&cache=20260224)](https://www.star-history.com/#CyL97/Awesome-Video-Generation-Post-Training&Date)
