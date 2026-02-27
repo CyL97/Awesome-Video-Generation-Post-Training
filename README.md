@@ -78,7 +78,7 @@ We hope this repository provides researchers and practitioners with a convenient
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
-@article{,
+@article{li2026vgmsurvey,
   title={Video Generation Models: A Survey of Post-Training and Alignment},
   author={Chaoyu Li, Xiaoyi Gu, Yogesh Kulkarni, Eun Woo Im, Mohammadmahdi Honarmand, Zeyu Wang, Juntong Song, Fei Du, Xilin Jiang, Kexin Zheng, Tianzhi Li, Fei Tao, Pooyan Fazli},
   journal={TechRxiv},
