@@ -73,18 +73,19 @@ It aims to:
 
 We hope this repository provides researchers and practitioners with a convenient, up-to-date reference for exploring the evolving landscape of post-training and alignment in video generation models.
 
-<!-- ## 📌 Citation 
+## 📌 Citation 
 
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
 @article{,
-  title={},
-  author={},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2026}
+  title={Video Generation Models: A Survey of Post-Training and Alignment},
+  author={Chaoyu Li, Xiaoyi Gu, Yogesh Kulkarni, Eun Woo Im, Mohammadmahdi Honarmand, Zeyu Wang, Juntong Song, Fei Du, Xilin Jiang, Kexin Zheng, Tianzhi Li, Fei Tao, Pooyan Fazli},
+  journal={TechRxiv},
+  year={2026},
+  url={10.36227/techrxiv.177220111.17351887/v1}
 }
-``` -->
+```
 
 ## 📚 Content
 
