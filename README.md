@@ -83,7 +83,7 @@ If you find our paper or this resource helpful, please consider cite:
   author={Chaoyu Li, Xiaoyi Gu, Yogesh Kulkarni, Eun Woo Im, Mohammadmahdi Honarmand, Zeyu Wang, Juntong Song, Fei Du, Xilin Jiang, Kexin Zheng, Tianzhi Li, Fei Tao, Pooyan Fazli},
   journal={TechRxiv},
   year={2026},
-  url={10.36227/techrxiv.177220111.17351887/v1}
+  doi={10.36227/techrxiv.177220111.17351887/v1}
 }
 ```
 
