@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PDF](https://img.shields.io/badge/PDF-GitHub-blue.svg)](https://github.com/CyL97/Awesome-Video-Generation-Post-Training/blob/main/paper/Video_Generation_Post_Training_Survey.pdf)
 ![Last Update](https://img.shields.io/badge/Last%20Update-Feb%202026-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/CyL97/Awesome-Video-Generation-Post-Training?style=social)
+![GitHub stars](https://img.shields.io/github/stars/CyL97/Awesome-Video-Generation-Post-Training?style=social&cache=20260224)
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)]() 
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)]() -->
