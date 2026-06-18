@@ -82,12 +82,14 @@ We hope this repository provides researchers and practitioners with a convenient
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
-@article{li2026vgmsurvey,
+@article{
+  li2026video,
   title={Video Generation Models: A Survey of Post-Training and Alignment},
-  author={Chaoyu Li, Xiaoyi Gu, Yogesh Kulkarni, Eun Woo Im, Mohammadmahdi Honarmand, Zeyu Wang, Juntong Song, Fei Du, Xilin Jiang, Kexin Zheng, Tianzhi Li, Fei Tao, Pooyan Fazli},
-  journal={TechRxiv},
+  author={Chaoyu Li and Xiaoyi Gu and Yogesh Kulkarni and Eun Woo Im and Mohammadmahdi Honarmand and Zeyu Wang and Juntong Song and Fei Du and Xilin Jiang and Kexin Zheng and Tianzhi Li and Fei Tao and Pooyan Fazli},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
   year={2026},
-  doi={10.36227/techrxiv.177220111.17351887/v1}
+  url={https://openreview.net/forum?id=YlUEWLESIu},
 }
 ```
 
