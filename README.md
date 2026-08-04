@@ -201,6 +201,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) WorldJen | 2026     | [Paper](https://arxiv.org/abs/2605.03475) · [GitHub](https://github.com/moonmath-ai/WorldJen-benchmarking-subsystem) · [Website](https://moonmath.ai/worldjen/) · [Dataset](https://huggingface.co/datasets/ik6626/WorldJen-benchmarking-subsystem) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) BRITE | 2026     | [Paper](https://arxiv.org/abs/2605.00873) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) WorldMark | 2026     | [Paper](https://arxiv.org/abs/2604.21686) · [Website](https://alaya-studio.github.io/WorldMark/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) VideoScore2 | 2025 | [Paper](https://arxiv.org/abs/2509.22799) · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore2) · [Website](https://tiger-ai-lab.github.io/VideoScore2/) · [Dataset](https://huggingface.co/datasets/TIGER-Lab/VideoFeedback2) |
 
 
 
