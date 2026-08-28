@@ -129,6 +129,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) GB3DV-25k | 2026 | [Paper](https://arxiv.org/abs/2603.16271) · [Website](https://vigor-geometry-reward.com/) · [Dataset](https://huggingface.co/datasets/Ethan2k04/GB3DV-25k)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MuSS | 2026 | [Paper](https://arxiv.org/abs/2604.23789) · [GitHub](https://github.com/zhang-haojie/MuSS) |
 
+| MiniMax-H3-1K | 2026 | [Dataset](https://huggingface.co/datasets/ostris/minimax_h3_1k) · [neta.art atlas](https://neta.art/use-cases/en/h3-1000-prompt-list) · [GitHub](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) |
 
 ### Benchmarks
 
